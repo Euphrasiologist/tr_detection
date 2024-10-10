@@ -1,0 +1,43 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-13-09>
+Subject: Job 522581: </lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/run_tr_hmms.bash> in cluster <farm22> Done
+
+Job </lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/run_tr_hmms.bash> was submitted from host <farm22-head1> by user <mb39> in cluster <farm22> at Fri May  3 14:52:03 2024
+Job was executed on host(s) <10*node-13-09>, in queue <small>, as user <mb39> in cluster <farm22> at Fri May  3 14:52:06 2024
+</nfs/users/nfs_m/mb39> was used as the home directory.
+</lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection> was used as the working directory.
+Started at Fri May  3 14:52:06 2024
+Terminated at Fri May  3 14:52:07 2024
+Results reported at Fri May  3 14:52:07 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/run_tr_hmms.bash
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   0.45 sec.
+    Max Memory :                                 7 MB
+    Average Memory :                             7.00 MB
+    Total Requested Memory :                     2000.00 MB
+    Delta Memory :                               1993.00 MB
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   22 sec.
+    Turnaround time :                            4 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <522581.err> for stderr output of this job.
+

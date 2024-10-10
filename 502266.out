@@ -1,0 +1,43 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node-13-14>
+Subject: Job 502266: <run_tr_hmms.bash> in cluster <farm22> Exited
+
+Job <run_tr_hmms.bash> was submitted from host <farm22-head2> by user <mb39> in cluster <farm22> at Fri May  3 11:12:27 2024
+Job was executed on host(s) <10*node-13-14>, in queue <small>, as user <mb39> in cluster <farm22> at Fri May  3 11:12:53 2024
+</nfs/users/nfs_m/mb39> was used as the home directory.
+</lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection> was used as the working directory.
+Started at Fri May  3 11:12:53 2024
+Terminated at Fri May  3 11:12:53 2024
+Results reported at Fri May  3 11:12:53 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+run_tr_hmms.bash
+------------------------------------------------------------
+
+Exited with exit code 127.
+
+Resource usage summary:
+
+    CPU time :                                   0.03 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     2000.00 MB
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              -
+    Max Threads :                                -
+    Run time :                                   55 sec.
+    Turnaround time :                            26 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <502266.err> for stderr output of this job.
+
