@@ -1,0 +1,31 @@
+# target name        accession  query name           accession  hmmfrom hmm to  alifrom   ali to  envfrom   env to   sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------  -------  -------  -------  -------  ------- ------ --------- ------ ----- ---------------------
+SCAFFOLD_8           -          TR                   -                2     312  5506730  5506399  5506731  5506398 28581225    -     1.9e-32  120.5   2.0  -
+SCAFFOLD_24          -          TR                   -                2     312 23170083 23169772 23170084 23169771 24112315    -     8.5e-32  118.4   1.7  -
+SCAFFOLD_3           -          TR                   -                2     312 14980204 14979895 14980205 14979894 30982512    -       5e-30  112.6   1.9  -
+SCAFFOLD_30          -          TR                   -                2     312 21210318 21210008 21210319 21210007 22089380    -     8.1e-30  111.9   1.8  -
+SCAFFOLD_12          -          TR                   -                2     312  5743973  5743637  5743974  5743633 27452643    -     8.4e-29  108.5   0.8  -
+SCAFFOLD_25          -          TR                   -               68     312  7422213  7422470  7422189  7422471 24109488    +     9.6e-21   82.1   1.0  -
+SCAFFOLD_6           -          TR                   -              160     312 21227567 21227397 21227569 21227396 29317411    -     1.1e-06   36.0   1.4  -
+SCAFFOLD_2           -          TR                   -                2     103 22874532 22874629 22874531 22874640 33368166    +         1.2   16.1   2.1  -
+SCAFFOLD_2           -          TR                   -                2     103 22814122 22814025 22814123 22814014 33368166    -         1.2   16.1   2.1  -
+SCAFFOLD_5           -          TR                   -               67     131  4559821  4559894  4559771  4559914 29337853    +           2   15.4   1.8  -
+SCAFFOLD_16          -          TR                   -               71     124    73916    73866    73937    73846 26709517    -         2.2   15.3   0.9  -
+SCAFFOLD_16          -          TR                   -               67     131 12595188 12595284 12595165 12595295 26709517    +         3.4   14.7   0.0  -
+SCAFFOLD_14          -          TR                   -              160     213 26768884 26768839 26768905 26768812 27159287    -         4.6   14.2   1.1  -
+SCAFFOLD_8           -          TR                   -               27     130  5736417  5736552  5736399  5736572 28581225    +         4.8   14.2   1.6  -
+SCAFFOLD_1           -          TR                   -               80     130 48447421 48447371 48447442 48447349 73428651    -         6.4   13.7   0.8  -
+SCAFFOLD_30          -          TR                   -               98     165   786248   786164   786268   786161 22089380    -         7.4   13.5   2.1  -
+SCAFFOLD_12          -          TR                   -               68     133  4648033  4647944  4648051  4647924 27452643    -         8.8   13.3   2.2  -
+SCAFFOLD_7           -          TR                   -              102     124 28845645 28845615 28845699 28845603 28845708    -         8.9   13.3   3.0  -
+SCAFFOLD_2           -          TR                   -               74     125      283      331      257      347 33368166    +         9.7   13.1   6.7  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Galium_aparine/assembly/curated/daGalApar1.1/daGalApar1.hap2.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout Galium_aparine.tbl --dna --cpu 10 TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Galium_aparine/assembly/curated/daGalApar1.1/daGalApar1.hap2.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection
+# Date:            Fri May  3 09:56:14 2024
+# [ok]
