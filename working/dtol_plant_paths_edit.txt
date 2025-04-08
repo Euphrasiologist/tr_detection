@@ -1,0 +1,2 @@
+/lustre/scratch124/tol/projects/darwin/data/dicots/Viscum_album/assembly/curated/drVisAlbu1.1/drVisAlbu1.1.primary.fa.gz
+/lustre/scratch124/tol/projects/darwin/data/dicots/Senecio_squalidus/assembly/curated/dSenSqu2.1/dSenSqu2.1.primary.fa.gz
