@@ -16,14 +16,13 @@ SUPER_1              -          TR                   -                2      88 
 SUPER_3              -          TR                   -              156     203 51727043 51726995 51727063 51726983 56051264    -         5.6   13.0   1.3  -
 SUPER_1              -          TR                   -                2      84 73011512 73011593 73011511 73011613 76280018    +         6.2   12.9   4.7  -
 SUPER_3              -          TR                   -                2      99 45861305 45861217 45861306 45861196 56051264    -         8.7   12.4   1.5  -
-SUPER_X              -          TR                   -               90     141 12497372 12497319 12497380 12497302 74045953    -          10   12.2   1.7  -
 #
 # Program:         nhmmer
 # Version:         3.4 (Aug 2023)
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
-# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Mercurialis_annua/assembly/curated/ddMerAnnu1.1/ddMerAnnu1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Mercurialis_annua.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Mercurialis_annua/assembly/curated/ddMerAnnu1.1/ddMerAnnu1.1.primary.fa.gz 
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Mercurialis_annua/assembly/curated/ddMerAnnu1.2/ddMerAnnu1.2.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Mercurialis_annua.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Mercurialis_annua/assembly/curated/ddMerAnnu1.2/ddMerAnnu1.2.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:41:11 2024
+# Date:            Fri Apr 18 20:16:42 2025
 # [ok]

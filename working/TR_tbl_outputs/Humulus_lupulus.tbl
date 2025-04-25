@@ -9,7 +9,7 @@ SUPER_5              -          TR                   -               35     128 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Humulus_lupulus/assembly/curated/drHumLupu1.1/drHumLupu1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Humulus_lupulus.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Humulus_lupulus/assembly/curated/drHumLupu1.1/drHumLupu1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Humulus_lupulus.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Humulus_lupulus/assembly/curated/drHumLupu1.1/drHumLupu1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:53:00 2024
+# Date:            Fri Apr 18 20:15:55 2025
 # [ok]

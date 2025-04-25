@@ -16,7 +16,7 @@ SUPER_4              -          TR                   -              139     198 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Urtica_urens/assembly/curated/drUrtUren1.1/drUrtUren1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Urtica_urens.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Urtica_urens/assembly/curated/drUrtUren1.1/drUrtUren1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Urtica_urens.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Urtica_urens/assembly/curated/drUrtUren1.1/drUrtUren1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 17:00:14 2024
+# Date:            Fri Apr 18 20:13:10 2025
 # [ok]

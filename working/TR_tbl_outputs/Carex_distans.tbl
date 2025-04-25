@@ -1,0 +1,22 @@
+# target name        accession  query name           accession  hmmfrom hmm to  alifrom   ali to  envfrom   env to   sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------  -------  -------  -------  -------  ------- ------ --------- ------ ----- ---------------------
+SUPER_18             -          TR                   -               16     315  5628534  5628215  5628544  5628213  9036040    -     3.2e-22   85.7   2.5  -
+SUPER_34             -          TR                   -               62     141  5770189  5770107  5770221  5770064  6609681    -       0.014   21.3   3.8  -
+SUPER_9              -          TR                   -              213     309  4878252  4878120  4878272  4878118 11803965    -         1.9   14.3   3.6  -
+SUPER_14             -          TR                   -               67     124  7667725  7667664  7667747  7667647  9926076    -         1.9   14.2   0.0  -
+SUPER_12             -          TR                   -               27     103  4602986  4602909  4603006  4602861 10182510    -         2.6   13.8   0.0  -
+SUPER_2              -          TR                   -               71     125 13436452 13436403 13436475 13436383 18046314    -         2.8   13.7   1.5  -
+SUPER_7              -          TR                   -               63     133 10799566 10799641 10799546 10799648 12004888    +         3.4   13.4   0.2  -
+SUPER_7              -          TR                   -               63     133   822142   822067   822162   822060 12004888    -         3.4   13.4   0.2  -
+SUPER_3              -          TR                   -              177     256 11601551 11601489 11601565 11601481 18467650    -         4.1   13.2   0.0  -
+SUPER_4              -          TR                   -               72     126  6981653  6981599  6981671  6981579 14754524    -         8.5   12.1   1.3  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/monocots/Carex_distans/assembly/curated/lpCarDist1.1/lpCarDist1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Carex_distans.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/monocots/Carex_distans/assembly/curated/lpCarDist1.1/lpCarDist1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:15:56 2025
+# [ok]

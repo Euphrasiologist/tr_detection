@@ -1,0 +1,23 @@
+# target name        accession  query name           accession  hmmfrom hmm to  alifrom   ali to  envfrom   env to   sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------  -------  -------  -------  -------  ------- ------ --------- ------ ----- ---------------------
+SUPER_10             -          TR                   -                2     317 46732430 46732756 46732429 46732756 47557663    +       4e-27  102.8   3.9  -
+HAP1_SCAFFOLD_194    -          TR                   -                2     315     6616     6300     6617     6299    49715    -     2.8e-26  100.1   3.4  -
+SUPER_3              -          TR                   -                2     315 23055903 23056219 23055902 23056220 56147497    +     2.8e-26  100.1   3.4  -
+SUPER_3              -          TR                   -              179     315 23087109 23087254 23087106 23087255 56147497    +     8.6e-09   42.7   0.5  -
+SUPER_4              -          TR                   -               77     158 15689700 15689622 15689720 15689618 52893608    -        0.67   16.8   1.5  -
+SUPER_5              -          TR                   -               68     130 41864075 41864010 41864095 41863987 52147022    -           1   16.1   2.5  -
+SUPER_4              -          TR                   -               66     163 35712202 35712304 35712182 35712305 52893608    +         1.3   15.8   1.2  -
+SUPER_9              -          TR                   -               68     137 14887379 14887479 14887352 14887498 49315978    +         4.3   14.1   2.2  -
+SUPER_11             -          TR                   -               69     133 35525475 35525414 35525508 35525392 47004007    -         5.5   13.8   6.7  -
+SUPER_1              -          TR                   -               25     141 34967385 34967548 34967371 34967562 59867292    +         5.6   13.8   2.2  -
+SUPER_6              -          TR                   -                2      82  6407006  6406917  6407007  6406898 50732051    -           6   13.6   3.9  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Stachys_alpina/assembly/curated/daStaAlpi1.1/daStaAlpi1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Stachys_alpina.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Stachys_alpina/assembly/curated/daStaAlpi1.1/daStaAlpi1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:17:24 2025
+# [ok]

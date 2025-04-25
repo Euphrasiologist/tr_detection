@@ -50,7 +50,7 @@ SUPER_10             -          TR                   -              184     263 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Ajuga_chamaepitys/assembly/curated/daAjuCham1.1/daAjuCham1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Ajuga_chamaepitys.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Ajuga_chamaepitys/assembly/curated/daAjuCham1.1/daAjuCham1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Ajuga_chamaepitys.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Ajuga_chamaepitys/assembly/curated/daAjuCham1.1/daAjuCham1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:19:22 2024
+# Date:            Fri Apr 18 20:19:33 2025
 # [ok]

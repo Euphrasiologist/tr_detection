@@ -1,0 +1,24 @@
+# target name        accession  query name           accession  hmmfrom hmm to  alifrom   ali to  envfrom   env to   sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------  -------  -------  -------  -------  ------- ------ --------- ------ ----- ---------------------
+SUPER_12             -          TR                   -                2     316  3734606  3734926  3734605  3734927 18291848    +     8.2e-39  140.1   2.3  -
+SUPER_9              -          TR                   -               28     141  5419029  5418922  5419049  5418902 22474722    -        0.16   17.7   8.1  -
+SUPER_15             -          TR                   -               23     156 15216144 15216260 15216125 15216275 17978701    +        0.88   15.2   8.8  -
+SUPER_2              -          TR                   -               67     139  2717200  2717301  2717177  2717318 26115536    +         1.7   14.3   2.6  -
+SUPER_1              -          TR                   -               70     157 16260273 16260181 16260295 16260170 27564275    -         2.6   13.7   2.8  -
+SUPER_5              -          TR                   -               37     123 20015628 20015732 20015608 20015752 25296722    +           4   13.1   3.3  -
+SUPER_2              -          TR                   -              107     180 11515357 11515281 11515377 11515275 26115536    -         5.3   12.7   2.6  -
+SUPER_5              -          TR                   -               24     130  1561673  1561793  1561661  1561813 25296722    +         5.4   12.7   1.0  -
+SUPER_2              -          TR                   -               68     122 12438244 12438172 12438264 12438152 26115536    -         6.3   12.4   4.7  -
+SUPER_7              -          TR                   -              167     243  3415170  3415064  3415190  3415062 22845101    -         7.5   12.2   4.7  -
+SUPER_14             -          TR                   -                1      55 11022076 11022024 11022076 11022002 18300814    -         8.6   12.0   0.7  -
+SUPER_15             -          TR                   -              110     165     4960     5020     4940     5021 17978701    +         9.3   11.9   2.2  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Verbascum_nigrum/assembly/curated/daVerNigr1.1/daVerNigr1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Verbascum_nigrum.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Verbascum_nigrum/assembly/curated/daVerNigr1.1/daVerNigr1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:19:00 2025
+# [ok]

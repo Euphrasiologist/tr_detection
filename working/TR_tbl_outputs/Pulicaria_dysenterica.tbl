@@ -1,6 +1,6 @@
 # target name        accession  query name           accession  hmmfrom hmm to   alifrom    ali to   envfrom    env to    sq len strand   E-value  score  bias  description of target
 #------------------- ---------- -------------------- ---------- ------- -------   -------   -------   -------   -------   ------- ------ --------- ------ ----- ---------------------
-SUPER_4              -          TR                   -                2     314  28079383  28079716  28079382  28079718  99126001    +     2.5e-17   70.8   3.0  -
+SUPER_4              -          TR                   -                2     314  28079383  28079716  28079382  28079718  99126001    +     2.6e-17   70.8   3.0  -
 SUPER_4              -          TR                   -              116     314  28079803  28080024  28079799  28080026  99126001    +     1.6e-05   32.1   2.3  -
 SUPER_9              -          TR                   -               55     313  38751369  38751668  38751330  38751670  60056765    +     6.1e-05   30.2   3.7  -
 SUPER_5              -          TR                   -               65     180    817663    817537    817686    817525  87207009    -     0.00011   29.4   4.3  -
@@ -31,7 +31,7 @@ SUPER_3              -          TR                   -               67     130 
 SUPER_3              -          TR                   -               70     130  32076451  32076508  32076431  32076528 116349980    +           5   14.1   1.0  -
 SUPER_1              -          TR                   -               69     130 112123700 112123758 112123679 112123778 118229540    +         5.1   14.0   1.1  -
 SUPER_4              -          TR                   -               69     130  88019457  88019399  88019478  88019379  99126001    -         5.1   14.0   1.1  -
-SUPER_1              -          TR                   -               81     139  20943991  20944044  20943986  20944066 118229540    +         5.7   13.9   0.4  -
+SUPER_1              -          TR                   -               81     139  20943991  20944044  20943986  20944066 118229540    +         5.8   13.9   0.4  -
 SUPER_3              -          TR                   -                2     120  97764922  97764773  97764923  97764753 116349980    -         5.8   13.8   0.3  -
 SUPER_8              -          TR                   -               80     141  35847045  35847112  35847005  35847132  73589420    +         6.4   13.7   2.9  -
 SUPER_3              -          TR                   -               82     135 109462910 109462857 109462930 109462836 116349980    -         6.5   13.7   1.5  -
@@ -45,8 +45,8 @@ SUPER_8              -          TR                   -               15     164 
 # Version:         3.4 (Aug 2023)
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
-# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Pulicaria_dysenterica/assembly/curated/daPulDyse1.1/daPulDyse1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Pulicaria_dysenterica.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Pulicaria_dysenterica/assembly/curated/daPulDyse1.1/daPulDyse1.1.primary.fa.gz 
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Pulicaria_dysenterica/assembly/curated/daPulDyse1.2/daPulDyse1.2.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Pulicaria_dysenterica.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Pulicaria_dysenterica/assembly/curated/daPulDyse1.2/daPulDyse1.2.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:26:29 2024
+# Date:            Fri Apr 18 20:19:40 2025
 # [ok]

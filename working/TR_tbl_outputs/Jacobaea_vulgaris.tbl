@@ -1,0 +1,31 @@
+# target name        accession  query name           accession  hmmfrom hmm to   alifrom    ali to   envfrom    env to    sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------   -------   -------   -------   -------   ------- ------ --------- ------ ----- ---------------------
+SUPER_6              -          TR                   -                2     317  69673553  69673883  69673552  69673883 105429087    +     3.9e-16   68.2   7.3  -
+SUPER_12             -          TR                   -               35     128  21093584  21093487  21093604  21093473  91679377    -        0.87   17.8   1.0  -
+SUPER_2              -          TR                   -              183     309   7511855   7511710   7511873   7511694 117942442    -         1.3   17.3   0.4  -
+SUPER_15             -          TR                   -               72     142   1442903   1442798   1442934   1442786  90960506    -         2.9   16.1   3.0  -
+SUPER_12             -          TR                   -               67     127   5563912   5563839   5563940   5563819  91679377    -         3.5   15.8   2.7  -
+SUPER_18             -          TR                   -               34     169  61687901  61687714  61687921  61687702  76871679    -         3.7   15.8   4.4  -
+SUPER_10             -          TR                   -               62     141  90604804  90604898  90604781  90604918  98427530    +         3.7   15.8   3.6  -
+SUPER_18             -          TR                   -                4      98   8133620   8133531   8133622   8133514  76871679    -         4.1   15.6   3.7  -
+SUPER_6              -          TR                   -               19     130  54225178  54225286  54225170  54225306 105429087    +         4.1   15.6   0.1  -
+SUPER_4              -          TR                   -               62     124  60310501  60310429  60310520  60310409 106189939    -         5.1   15.3   4.3  -
+SUPER_9              -          TR                   -               67     122  62345507  62345449  62345536  62345429  98425977    -         5.3   15.2   1.7  -
+SUPER_3              -          TR                   -               27     166   9236412   9236617   9236393   9236620 115776833    +         5.4   15.2   0.4  -
+SUPER_18             -          TR                   -              166     294  38874325  38874453  38874325  38874458  76871679    +         5.7   15.1   2.8  -
+SUPER_16             -          TR                   -                1      68   8872929   8873034   8872929   8873067  89094707    +           6   15.1   4.0  -
+SUPER_14             -          TR                   -              161     196   2904707   2904672   2904727   2904665  90995192    -         6.4   15.0   2.2  -
+SUPER_14             -          TR                   -               32     118  32008637  32008744  32008619  32008764  90995192    +         6.8   14.9   1.4  -
+SUPER_11             -          TR                   -               43     127  72303058  72302971  72303082  72302950  97923268    -         7.3   14.8   0.0  -
+SUPER_3              -          TR                   -                6     125  66570703  66570589  66570703  66570568 115776833    -         7.8   14.7   1.8  -
+SUPER_4              -          TR                   -               18     167  44700759  44700542  44700775  44700537 106189939    -         9.2   14.5   0.0  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Jacobaea_vulgaris/assembly/curated/daJacVulg1.1/daJacVulg1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Jacobaea_vulgaris.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Jacobaea_vulgaris/assembly/curated/daJacVulg1.1/daJacVulg1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:19:24 2025
+# [ok]

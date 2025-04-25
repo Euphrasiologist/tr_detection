@@ -15,7 +15,7 @@ SUPER_9              -          TR                   -                2      76 
 SUPER_7              -          TR                   -               28     124 26966909 26966998 26966890 26967018 39933185    +         4.5   13.3   3.3  -
 SUPER_6              -          TR                   -               25     127 10301991 10301866 10302010 10301845 40913856    -         5.1   13.1   2.6  -
 SUPER_11             -          TR                   -                1      50 10676354 10676305 10676354 10676284 26463451    -         5.1   13.1   2.9  -
-SUPER_4              -          TR                   -               31     141  4136607  4136496  4136628  4136476 44033385    -         5.2   13.1   1.1  -
+SUPER_4              -          TR                   -               31     141  4136607  4136496  4136628  4136476 44033385    -         5.1   13.1   1.1  -
 SUPER_4              -          TR                   -                1      77 34911057 34911137 34911057 34911159 44033385    +         5.5   13.0   0.6  -
 SUPER_2              -          TR                   -                7     116 31972159 31972055 31972159 31972055 51946967    -           6   12.9   4.9  -
 SUPER_4              -          TR                   -                1      48 28007216 28007263 28007216 28007284 44033385    +           6   12.9   3.6  -
@@ -37,8 +37,8 @@ SUPER_2              -          TR                   -               21     131 
 # Version:         3.4 (Aug 2023)
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
-# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Sherardia_arvensis/assembly/curated/daSheArve1.1/daSheArve1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Sherardia_arvensis.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Sherardia_arvensis/assembly/curated/daSheArve1.1/daSheArve1.1.primary.fa.gz 
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Sherardia_arvensis/assembly/curated/daSheArve1.old/daSheArve1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Sherardia_arvensis.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Sherardia_arvensis/assembly/curated/daSheArve1.old/daSheArve1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:29:37 2024
+# Date:            Fri Apr 18 20:19:27 2025
 # [ok]

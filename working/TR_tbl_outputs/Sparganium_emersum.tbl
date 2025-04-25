@@ -1,0 +1,32 @@
+# target name        accession  query name           accession  hmmfrom hmm to  alifrom   ali to  envfrom   env to   sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------  -------  -------  -------  -------  ------- ------ --------- ------ ----- ---------------------
+SUPER_10             -          TR                   -                1     313  2690019  2690360  2690019  2690362 27444214    +       4e-33  122.0   1.7  -
+SUPER_1              -          TR                   -               23     123 24660789 24660687 24660804 24660668 47558644    -        0.73   16.1   3.5  -
+SUPER_14             -          TR                   -               68     124 14475348 14475410 14475310 14475428 25137412    +        0.81   15.9   4.1  -
+SUPER_11             -          TR                   -              183     307 18403691 18403586 18403703 18403579 27038358    -         1.2   15.3   0.6  -
+SUPER_6              -          TR                   -               71     124 14485962 14486021 14485920 14486048 34504711    +         1.8   14.8   6.4  -
+SUPER_3              -          TR                   -               28     137  7401483  7401574  7401469  7401594 42643810    +         1.9   14.7   1.2  -
+SUPER_5              -          TR                   -               69     193 30393298 30393191 30393319 30393184 35148027    -         2.1   14.6   0.8  -
+SUPER_1              -          TR                   -               28     137 31804542 31804453 31804557 31804433 47558644    -         3.2   14.0   0.8  -
+SUPER_1              -          TR                   -               24     136  1714772  1714870  1714755  1714891 47558644    +         5.4   13.2   1.6  -
+SUPER_6              -          TR                   -               26     140  3720486  3720601  3720471  3720610 34504711    +         5.6   13.2   0.2  -
+SUPER_6              -          TR                   -               36     136 18407847 18407763 18407860 18407743 34504711    -         5.8   13.1   1.3  -
+SUPER_2              -          TR                   -                9     141 18713916 18714055 18713914 18714070 45114679    +         6.9   12.9   2.9  -
+SUPER_4              -          TR                   -               67     128  9952084  9952012  9952130  9951997 41822168    -         7.3   12.8   5.9  -
+SUPER_6              -          TR                   -                1      50 27733855 27733902 27733855 27733930 34504711    +         7.3   12.8   2.4  -
+SUPER_4              -          TR                   -              186     310  6273073  6273206  6273055  6273211 41822168    +         7.5   12.8   0.8  -
+SUPER_8              -          TR                   -               24     136  8248632  8248713  8248618  8248732 30559280    +         8.3   12.6   2.0  -
+HAP1_SCAFFOLD_615    -          TR                   -               28     136     3644     3739     3625     3760    28233    +         8.3   12.6   0.9  -
+SUPER_9              -          TR                   -                1      64  8921761  8921700  8921761  8921679 28349785    -         8.5   12.6   2.0  -
+SUPER_9              -          TR                   -               35     136  7913621  7913534  7913647  7913513 28349785    -         8.5   12.6   1.0  -
+SUPER_4              -          TR                   -               23     136   133435   133335   133447   133314 41822168    -           9   12.5   1.3  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/monocots/Sparganium_emersum/assembly/curated/lpSpaEmer1.1/lpSpaEmer1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Sparganium_emersum.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/monocots/Sparganium_emersum/assembly/curated/lpSpaEmer1.1/lpSpaEmer1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:17:34 2025
+# [ok]

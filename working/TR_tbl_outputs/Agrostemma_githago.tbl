@@ -8310,7 +8310,7 @@ SUPER_18             -          TR                   -               64     131 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Agrostemma_githago/assembly/curated/dcAgrGith1.1/dcAgrGith1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Agrostemma_githago.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Agrostemma_githago/assembly/curated/dcAgrGith1.1/dcAgrGith1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Agrostemma_githago.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Agrostemma_githago/assembly/curated/dcAgrGith1.1/dcAgrGith1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:35:02 2024
+# Date:            Fri Apr 18 20:14:46 2025
 # [ok]

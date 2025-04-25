@@ -36,7 +36,7 @@ SUPER_8              -          TR                   -               68     124 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Dryas_octopetala/assembly/curated/drDryOcto1.1/drDryOcto1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Dryas_octopetala.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Dryas_octopetala/assembly/curated/drDryOcto1.1/drDryOcto1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Dryas_octopetala.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Dryas_octopetala/assembly/curated/drDryOcto1.1/drDryOcto1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:50:50 2024
+# Date:            Fri Apr 18 20:18:57 2025
 # [ok]

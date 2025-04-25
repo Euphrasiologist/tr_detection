@@ -23,7 +23,7 @@ SUPER_6              -          TR                   -               67     132 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Potentilla_sterilis/assembly/curated/drPotSter1.1/drPotSter1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Potentilla_sterilis.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Potentilla_sterilis/assembly/curated/drPotSter1.1/drPotSter1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Potentilla_sterilis.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Potentilla_sterilis/assembly/curated/drPotSter1.1/drPotSter1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:57:10 2024
+# Date:            Fri Apr 18 20:15:07 2025
 # [ok]

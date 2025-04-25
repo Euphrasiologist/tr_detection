@@ -19,7 +19,7 @@ SUPER_4              -          TR                   -               78     130 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Lepidium_didymum/assembly/curated/ddLepDidy1.1/ddLepDidy1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Lepidium_didymum.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Lepidium_didymum/assembly/curated/ddLepDidy1.1/ddLepDidy1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Lepidium_didymum.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Lepidium_didymum/assembly/curated/ddLepDidy1.1/ddLepDidy1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:41:04 2024
+# Date:            Fri Apr 18 20:21:35 2025
 # [ok]

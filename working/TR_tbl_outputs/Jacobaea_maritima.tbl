@@ -1,0 +1,21 @@
+# target name        accession  query name           accession  hmmfrom hmm to   alifrom    ali to   envfrom    env to    sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------   -------   -------   -------   -------   ------- ------ --------- ------ ----- ---------------------
+SUPER_11             -          TR                   -                2     316  39219555  39219229  39219556  39219228 110784988    -     2.1e-15   65.9   7.6  -
+SUPER_8              -          TR                   -               15     166  21710387  21710184  21710393  21710183 113409432    -      0.0029   26.1   2.3  -
+SUPER_5              -          TR                   -               26     130   6616763   6616900   6616752   6616922 116021262    +       0.026   22.9   0.5  -
+SUPER_1              -          TR                   -                1      78 125257241 125257129 125257241 125257109 134926039    -         2.7   16.3   1.7  -
+SUPER_20             -          TR                   -               30     140  54217683  54217559  54217697  54217546  68390604    -         3.3   16.0   5.8  -
+SUPER_20             -          TR                   -                7     131   9285783   9285912   9285783   9285932  68390604    +         3.4   16.0   2.0  -
+SUPER_2              -          TR                   -                1     124  10918087  10918224  10918087  10918244 124105635    +           6   15.2   2.9  -
+SUPER_19             -          TR                   -               17     162  49974167  49974346  49974149  49974353  87415529    +         6.2   15.1   1.2  -
+SUPER_17             -          TR                   -                1      62  13124886  13124827  13124886  13124807  91092640    -         7.1   14.9   2.2  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Jacobaea_maritima/assembly/curated/daJacMari1.1/daJacMari1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Jacobaea_maritima.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Jacobaea_maritima/assembly/curated/daJacMari1.1/daJacMari1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:17:25 2025
+# [ok]

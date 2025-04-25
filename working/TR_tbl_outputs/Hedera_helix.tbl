@@ -11,8 +11,8 @@ SUPER_1              -          TR                   -               20     103 
 # Version:         3.4 (Aug 2023)
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
-# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Hedera_helix/assembly/curated/drHedHeli1.1/drHedHeli1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Hedera_helix.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Hedera_helix/assembly/curated/drHedHeli1.1/drHedHeli1.1.primary.fa.gz 
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Hedera_helix/assembly/curated/drHedHeli1.2/drHedHeli1.2.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Hedera_helix.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Hedera_helix/assembly/curated/drHedHeli1.2/drHedHeli1.2.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:52:32 2024
+# Date:            Fri Apr 18 20:18:37 2025
 # [ok]

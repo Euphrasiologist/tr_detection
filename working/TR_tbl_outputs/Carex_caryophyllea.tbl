@@ -1,0 +1,21 @@
+# target name        accession  query name           accession  hmmfrom hmm to  alifrom   ali to  envfrom   env to   sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------  -------  -------  -------  -------  ------- ------ --------- ------ ----- ---------------------
+SUPER_23             -          TR                   -                7     315  5127641  5127341  5127647  5127339 12934045    -       3e-22   86.4   2.6  -
+SUPER_13             -          TR                   -              149     245  6686774  6686674  6686795  6686667 15385639    -      0.0019   24.7   2.3  -
+SUPER_7              -          TR                   -              173     252  6247108  6246970  6247116  6246952 20219479    -        0.98   15.7   2.1  -
+SUPER_3              -          TR                   -               67     128 15466297 15466361 15466276 15466381 23839641    +           2   14.7   1.0  -
+SUPER_1              -          TR                   -               68     148 21054700 21054785 21054680 21054803 24968250    +         2.4   14.4   0.0  -
+SUPER_21             -          TR                   -               67     124  3282883  3282944  3282861  3282961 13263204    +         2.7   14.3   0.3  -
+SUPER_10             -          TR                   -               79     200 15312457 15312558 15312437 15312560 17783645    +         3.2   14.1   6.0  -
+SUPER_29             -          TR                   -                5     130  1450461  1450621  1450458  1450641 11370558    +         5.7   13.2   8.0  -
+SUPER_7              -          TR                   -               68     135 14304300 14304241 14304349 14304221 20219479    -         6.7   13.0   5.9  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/monocots/Carex_caryophyllea/assembly/curated/lpCarCary1.1/lpCarCary1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Carex_caryophyllea.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/monocots/Carex_caryophyllea/assembly/curated/lpCarCary1.1/lpCarCary1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:17:41 2025
+# [ok]

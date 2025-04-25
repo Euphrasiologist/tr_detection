@@ -77,8 +77,8 @@ SUPER_2              -          TR                   -               81     163 
 # Version:         3.4 (Aug 2023)
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
-# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Sambucus_nigra/assembly/curated/daSamNigr1.1/daSamNigr1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Sambucus_nigra.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Sambucus_nigra/assembly/curated/daSamNigr1.1/daSamNigr1.1.primary.fa.gz 
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Sambucus_nigra/assembly/curated/daSamNigr1.old/daSamNigr1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Sambucus_nigra.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Sambucus_nigra/assembly/curated/daSamNigr1.old/daSamNigr1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:29:13 2024
+# Date:            Fri Apr 18 20:14:40 2025
 # [ok]

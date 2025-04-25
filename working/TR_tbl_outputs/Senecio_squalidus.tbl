@@ -105,7 +105,7 @@ Scaffold_612_HRSCAF_3546_arrow -          TR                   -                
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Senecio_squalidus/assembly/curated/dSenSqu2.1/dSenSqu2.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Senecio_squalidus.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Senecio_squalidus/assembly/curated/dSenSqu2.1/dSenSqu2.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Senecio_squalidus.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Senecio_squalidus/assembly/curated/dSenSqu2.1/dSenSqu2.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Fri Oct 18 11:26:09 2024
+# Date:            Fri Apr 18 20:14:43 2025
 # [ok]

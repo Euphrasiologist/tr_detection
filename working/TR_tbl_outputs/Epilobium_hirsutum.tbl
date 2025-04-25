@@ -1,0 +1,21 @@
+# target name        accession  query name           accession  hmmfrom hmm to  alifrom   ali to  envfrom   env to   sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------  -------  -------  -------  -------  ------- ------ --------- ------ ----- ---------------------
+SUPER_3              -          TR                   -                1     314  3438501  3438803  3438501  3438805 20348077    +     4.1e-13   55.7   1.0  -
+SUPER_3              -          TR                   -                6     317  3460387  3460685  3460384  3460688 20348077    +       9e-13   54.6   1.1  -
+SUPER_3              -          TR                   -               79     316  3436978  3437193  3436954  3437198 20348077    +     2.7e-10   46.5   1.9  -
+SUPER_16             -          TR                   -               68     134  3180786  3180847  3180766  3180867 16691358    +         0.6   15.8   0.6  -
+SUPER_6              -          TR                   -              103     175  5018391  5018290  5018411  5018289 18857839    -         1.2   14.8   4.3  -
+SUPER_13             -          TR                   -               30     122  1916657  1916553  1916677  1916533 17608448    -           7   12.3   2.4  -
+SUPER_12             -          TR                   -               73     152 16783094 16783167 16783073 16783192 18184289    +           7   12.3   1.4  -
+SUPER_14             -          TR                   -               76     128 14210853 14210801 14210874 14210780 17342813    -         8.3   12.1   3.1  -
+SUPER_7              -          TR                   -               74     133 16810697 16810647 16810718 16810627 18827094    -         8.6   12.0   1.0  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Epilobium_hirsutum/assembly/curated/drEpiHirs1.1/drEpiHirs1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Epilobium_hirsutum.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Epilobium_hirsutum/assembly/curated/drEpiHirs1.1/drEpiHirs1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:15:09 2025
+# [ok]

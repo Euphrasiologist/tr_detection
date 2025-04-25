@@ -18,23 +18,23 @@ SUPER_1              -          TR                   -              108     168 
 SUPER_3              -          TR                   -                1     116 26679170 26679008 26679170 26678991 44838700    -         3.4   13.0   4.1  -
 SUPER_6              -          TR                   -               31     126 12016714 12016614 12016735 12016599 32599865    -         5.6   12.3   6.6  -
 SUPER_6              -          TR                   -                1      53 29310491 29310439 29310491 29310408 32599865    -         6.2   12.2   3.0  -
-SUPER_5              -          TR                   -               68     124 13671926 13671882 13671963 13671862 32611028    -         7.1   12.0   1.7  -
+SUPER_5              -          TR                   -               68     124 13671926 13671882 13671963 13671862 32611028    -           7   12.0   1.7  -
 SUPER_5              -          TR                   -               20     131  4764158  4764246  4764150  4764267 32611028    +         7.5   11.9   1.9  -
 SUPER_6              -          TR                   -               27     140 31893061 31892948 31893079 31892934 32599865    -           8   11.8   3.4  -
-SUPER_2              -          TR                   -               90     193 18488521 18488619 18488495 18488624 48478265    +         8.2   11.8   2.5  -
-SUPER_3              -          TR                   -               68     125 20999302 20999257 20999342 20999238 44838700    -         8.6   11.7   2.0  -
+SUPER_2              -          TR                   -               90     193 18488521 18488619 18488495 18488624 48478265    +         8.1   11.8   2.5  -
+SUPER_3              -          TR                   -               68     125 20999302 20999257 20999342 20999238 44838700    -         8.5   11.7   2.0  -
 SUPER_6              -          TR                   -               25     141 21822087 21822194 21822068 21822210 32599865    +         8.7   11.7   3.5  -
-SUPER_1              -          TR                   -              108     168 12720040 12720095 12720019 12720107 45242140    +         8.9   11.7   3.0  -
-SUPER_1              -          TR                   -              103     190 29113679 29113593 29113720 29113587 45242140    -           9   11.7   3.3  -
-SUPER_3              -          TR                   -               68     125  9769388  9769343  9769408  9769324 44838700    -           9   11.7   1.0  -
-SUPER_2              -          TR                   -               30     141 30634428 30634524 30634407 30634542 48478265    +         9.2   11.6   4.9  -
+SUPER_1              -          TR                   -              108     168 12720040 12720095 12720019 12720107 45242140    +         8.8   11.7   3.0  -
+SUPER_1              -          TR                   -              103     190 29113679 29113593 29113720 29113587 45242140    -         8.9   11.7   3.3  -
+SUPER_3              -          TR                   -               68     125  9769388  9769343  9769408  9769324 44838700    -         8.9   11.7   1.0  -
+SUPER_2              -          TR                   -               30     141 30634428 30634524 30634407 30634542 48478265    +         9.1   11.6   4.9  -
 #
 # Program:         nhmmer
 # Version:         3.4 (Aug 2023)
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
-# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Filipendula_ulmaria/assembly/curated/drFilUlma1.1/drFilUlma1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Filipendula_ulmaria.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Filipendula_ulmaria/assembly/curated/drFilUlma1.1/drFilUlma1.1.primary.fa.gz 
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Filipendula_ulmaria/assembly/curated/drFilUlma1.ORIGINAL/drFilUlma1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Filipendula_ulmaria.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Filipendula_ulmaria/assembly/curated/drFilUlma1.ORIGINAL/drFilUlma1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:51:17 2024
+# Date:            Fri Apr 18 20:17:21 2025
 # [ok]

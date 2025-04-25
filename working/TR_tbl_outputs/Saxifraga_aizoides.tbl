@@ -1,0 +1,26 @@
+# target name        accession  query name           accession  hmmfrom hmm to   alifrom    ali to   envfrom    env to    sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------   -------   -------   -------   -------   ------- ------ --------- ------ ----- ---------------------
+SUPER_9              -          TR                   -                1     314  14645132  14645456  14645132  14645458  99994136    +       3e-17   71.4   2.6  -
+SUPER_9              -          TR                   -                1     263  51126215  51126491  51126215  51126533  99994136    +     1.1e-14   62.9   1.7  -
+SUPER_3              -          TR                   -              105     209   8634398   8634302   8634420   8634281 135927080    -     1.1e-05   33.4   3.3  -
+SUPER_9              -          TR                   -              169     257  51126563  51126668  51126561  51126694  99994136    +      0.0032   25.3   0.4  -
+SUPER_6              -          TR                   -                1     101   6397065   6397159   6397065   6397179 106767620    +        0.66   17.7   5.0  -
+SUPER_9              -          TR                   -               27     141  24264993  24264869  24265009  24264839  99994136    -         3.6   15.3   7.0  -
+SUPER_12             -          TR                   -                2      84   4848425   4848508   4848424   4848517  85058554    +         3.7   15.3   3.9  -
+SUPER_12             -          TR                   -                1      68  38154596  38154522  38154596  38154512  85058554    -           5   14.8   2.7  -
+SUPER_3              -          TR                   -                1      61  63976095  63976155  63976095  63976177 135927080    +           6   14.6   7.1  -
+SUPER_2              -          TR                   -                1     140  46872699  46872889  46872699  46872909 137821795    +         6.3   14.5   5.5  -
+SUPER_12             -          TR                   -                2     129  16056130  16056004  16056131  16055985  85058554    -         7.5   14.3   2.7  -
+SUPER_2              -          TR                   -                1      84 122809447 122809541 122809447 122809561 137821795    +         7.7   14.2   5.6  -
+SUPER_9              -          TR                   -               26     169  54128797  54128660  54128811  54128639  99994136    -         9.2   14.0   4.9  -
+SUPER_1              -          TR                   -               61     163 153847220 153847316 153847197 153847322 157257896    +         9.7   13.9   5.0  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Saxifraga_aizoides/assembly/curated/drSaxAizo1.1/drSaxAizo1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Saxifraga_aizoides.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Saxifraga_aizoides/assembly/curated/drSaxAizo1.1/drSaxAizo1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:13:29 2025
+# [ok]

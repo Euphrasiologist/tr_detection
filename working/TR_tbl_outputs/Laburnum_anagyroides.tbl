@@ -32,7 +32,7 @@ SUPER_2              -          TR                   -                1      81 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Laburnum_anagyroides/assembly/curated/drLabAnag1.1/drLabAnag1.hap1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Laburnum_anagyroides.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Laburnum_anagyroides/assembly/curated/drLabAnag1.1/drLabAnag1.hap1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Laburnum_anagyroides.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Laburnum_anagyroides/assembly/curated/drLabAnag1.1/drLabAnag1.hap1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:53:48 2024
+# Date:            Fri Apr 18 20:16:20 2025
 # [ok]

@@ -1,0 +1,22 @@
+# target name        accession  query name           accession  hmmfrom hmm to   alifrom    ali to   envfrom    env to    sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------   -------   -------   -------   -------   ------- ------ --------- ------ ----- ---------------------
+SUPER_6              -          TR                   -                1     317 132232816 132233190 132232816 132233190 344621777    +     1.2e-12   58.5   5.3  -
+SUPER_6              -          TR                   -                1     317 134117191 134116836 134117191 134116833 344621777    -     3.5e-12   57.0   5.0  -
+SUPER_4              -          TR                   -               46     131 334450303 334450390 334450280 334450412 406055045    +        0.91   19.5   2.5  -
+SUPER_16             -          TR                   -               17     161 137554190 137554358 137554183 137554360 294268048    +        0.92   19.5   2.7  -
+SUPER_7              -          TR                   -               44     299 169944957 169944704 169944974 169944687 340149671    -         2.3   18.2   0.7  -
+SUPER_10             -          TR                   -               67     146 222346679 222346601 222346699 222346581 320578265    -         2.3   18.2   1.8  -
+SUPER_20             -          TR                   -               73     130  72003677  72003735  72003658  72003768 249099583    +         3.4   17.6   1.4  -
+SUPER_1              -          TR                   -               83     157 204562028 204562109 204562006 204562122 515035378    +         5.8   16.9   0.4  -
+SUPER_10             -          TR                   -              101     157 306031518 306031575 306031498 306031594 320578265    +          10   16.1   2.0  -
+SUPER_1              -          TR                   -               24     162    469999    469812    470012    469810 515035378    -          10   16.1   3.3  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/monocots/Iris_foetidissima/assembly/curated/lsIriFoet1.1/lsIriFoet1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Iris_foetidissima.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/monocots/Iris_foetidissima/assembly/curated/lsIriFoet1.1/lsIriFoet1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:18:03 2025
+# [ok]

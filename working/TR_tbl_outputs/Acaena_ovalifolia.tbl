@@ -213,7 +213,7 @@ SUPER_3              -          TR                   -                1      52 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Acaena_ovalifolia/assembly/curated/drAcaOval1.1/drAcaOval1.hap1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Acaena_ovalifolia.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Acaena_ovalifolia/assembly/curated/drAcaOval1.1/drAcaOval1.hap1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Acaena_ovalifolia.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Acaena_ovalifolia/assembly/curated/drAcaOval1.1/drAcaOval1.hap1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:48:32 2024
+# Date:            Fri Apr 18 20:21:57 2025
 # [ok]

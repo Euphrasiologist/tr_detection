@@ -27,7 +27,7 @@ SUPER_2              -          TR                   -               96     142 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Arabidopsis_thaliana/assembly/curated/ddAraThal4.1/ddAraThal4.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Arabidopsis_thaliana.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Arabidopsis_thaliana/assembly/curated/ddAraThal4.1/ddAraThal4.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Arabidopsis_thaliana.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Arabidopsis_thaliana/assembly/curated/ddAraThal4.1/ddAraThal4.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:38:34 2024
+# Date:            Fri Apr 18 20:20:04 2025
 # [ok]

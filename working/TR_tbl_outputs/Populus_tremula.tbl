@@ -11,7 +11,7 @@ SUPER_14             -          TR                   -                2      58 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Populus_tremula/assembly/curated/ddPopTrem1.1/ddPopTrem1.hap1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Populus_tremula.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Populus_tremula/assembly/curated/ddPopTrem1.1/ddPopTrem1.hap1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Populus_tremula.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Populus_tremula/assembly/curated/ddPopTrem1.1/ddPopTrem1.hap1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:41:56 2024
+# Date:            Fri Apr 18 20:15:09 2025
 # [ok]

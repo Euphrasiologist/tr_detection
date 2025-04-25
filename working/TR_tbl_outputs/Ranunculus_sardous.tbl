@@ -1,0 +1,21 @@
+# target name        accession  query name           accession  hmmfrom hmm to   alifrom    ali to   envfrom    env to    sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------   -------   -------   -------   -------   ------- ------ --------- ------ ----- ---------------------
+SUPER_1              -          TR                   -                4     315 230320239 230319912 230320242 230319911 415627606    -       0.017   23.9   4.6  -
+SUPER_5              -          TR                   -                4     130 198202630 198202504 198202630 198202488 333061910    -        0.44   19.3   0.3  -
+SUPER_7              -          TR                   -               54     161 273666164 273666272 273666144 273666275 309035912    +         1.9   17.2   4.0  -
+SUPER_1              -          TR                   -               25     130 379483162 379483282 379483148 379483302 415627606    +         2.7   16.7   2.7  -
+SUPER_5              -          TR                   -               61     141  92691306  92691221  92691326  92691201 333061910    -         3.1   16.5   0.2  -
+SUPER_7              -          TR                   -               68     130  47821033  47821110  47821005  47821130 309035912    +         4.3   16.0   0.2  -
+SUPER_3              -          TR                   -               59     122  57014482  57014412  57014509  57014392 368828389    -           5   15.8   0.0  -
+SUPER_7              -          TR                   -               23     141  83753944  83754080  83753932  83754097 309035912    +         8.2   15.1   3.5  -
+SUPER_3              -          TR                   -               32     119 140037219 140037304 140037199 140037365 368828389    +         8.9   15.0   0.0  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Ranunculus_sardous/assembly/curated/dmRanSard1.1/dmRanSard1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Ranunculus_sardous.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Ranunculus_sardous/assembly/curated/dmRanSard1.1/dmRanSard1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:14:05 2025
+# [ok]

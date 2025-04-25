@@ -45,7 +45,7 @@ SUPER_6              -          TR                   -                1      48 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Verbena_officinalis/assembly/curated/daVerOffi1.1/daVerOffi1.1.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Verbena_officinalis.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Verbena_officinalis/assembly/curated/daVerOffi1.1/daVerOffi1.1.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Verbena_officinalis.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Verbena_officinalis/assembly/curated/daVerOffi1.1/daVerOffi1.1.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:32:45 2024
+# Date:            Fri Apr 18 20:14:18 2025
 # [ok]

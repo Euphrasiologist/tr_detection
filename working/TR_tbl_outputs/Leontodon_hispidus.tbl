@@ -1,0 +1,33 @@
+# target name        accession  query name           accession  hmmfrom hmm to   alifrom    ali to   envfrom    env to    sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------   -------   -------   -------   -------   ------- ------ --------- ------ ----- ---------------------
+SUPER_5              -          TR                   -                2     312  64619704  64620043  64619703  64620046 221222005    +     7.8e-15   63.9   1.6  -
+SUPER_1              -          TR                   -                2     315  93429782  93430120  93429781  93430123 390928474    +     1.5e-10   49.9   4.3  -
+SUPER_3              -          TR                   -               22     141   2579850   2579716   2579863   2579696 304487635    -        0.43   18.8   3.2  -
+SUPER_4              -          TR                   -                7     127 123084919 123084751 123084919 123084730 271023075    -         1.2   17.4   0.0  -
+SUPER_1              -          TR                   -              108     169 107755107 107755021 107755126 107755018 390928474    -         1.8   16.8   2.9  -
+SUPER_2              -          TR                   -               24     131 194317217 194317313 194317199 194317335 373953894    +         2.1   16.6   1.7  -
+SUPER_2              -          TR                   -               25     132  79150000  79149852  79150007  79149832 373953894    -         2.3   16.5   3.8  -
+SUPER_5              -          TR                   -               64     138  87065700  87065616  87065726  87065599 221222005    -         3.3   15.9   0.5  -
+SUPER_4              -          TR                   -               73     156 184039205 184039278 184039186 184039300 271023075    +         4.1   15.6   3.7  -
+SUPER_1              -          TR                   -                9     103 139576959 139576844 139576961 139576780 390928474    -         4.7   15.4   0.0  -
+SUPER_3              -          TR                   -               73     137 182689841 182689912 182689818 182689931 304487635    +         5.2   15.3   0.6  -
+SUPER_3              -          TR                   -              160     196 212154126 212154088 212154138 212154068 304487635    -         6.3   15.0   1.5  -
+SUPER_5              -          TR                   -               67     131 215168135 215168213 215168115 215168236 221222005    +         6.4   15.0   1.8  -
+SUPER_5              -          TR                   -               67     131 215175506 215175584 215175486 215175607 221222005    +         6.4   15.0   1.8  -
+SUPER_3              -          TR                   -               67     139 287168695 287168798 287168666 287168818 304487635    +           7   14.9   3.6  -
+SUPER_2              -          TR                   -              160     200 277884621 277884660 277884618 277884662 373953894    +         7.1   14.8   1.0  -
+SUPER_6              -          TR                   -               73     142 161751005 161751087 161750986 161751105 210129592    +         7.6   14.7   3.4  -
+SUPER_2              -          TR                   -               68     164  89993913  89993818  89993941  89993818 373953894    -         7.9   14.7   4.6  -
+SUPER_1              -          TR                   -              104     181  95384195  95384097  95384209  95384068 390928474    -         8.3   14.6   1.7  -
+SUPER_1              -          TR                   -               74     156  41775873  41775779  41775893  41775771 390928474    -           9   14.5   2.3  -
+SUPER_3              -          TR                   -              159     195  43930972  43931006  43930968  43931010 304487635    +         9.8   14.4   1.6  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Leontodon_hispidus/assembly/curated/daLeoHisp1.1/daLeoHisp1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Leontodon_hispidus.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Leontodon_hispidus/assembly/curated/daLeoHisp1.1/daLeoHisp1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:16:15 2025
+# [ok]

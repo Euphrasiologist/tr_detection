@@ -20,7 +20,7 @@ SUPER_4              -          TR                   -               79     139 
 # Pipeline mode:   SEARCH
 # Query file:      ../original_data/TR.hmm
 # Target file:     /lustre/scratch124/tol/projects/darwin/data/dicots/Malus_domestica/assembly/curated/drMalDome58.3/drMalDome58.3.primary.fa.gz
-# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Malus_domestica.tbl --dna --cpu 10 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Malus_domestica/assembly/curated/drMalDome58.3/drMalDome58.3.primary.fa.gz 
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Malus_domestica.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/dicots/Malus_domestica/assembly/curated/drMalDome58.3/drMalDome58.3.primary.fa.gz 
 # Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
-# Date:            Thu Oct 17 16:56:09 2024
+# Date:            Fri Apr 18 20:18:23 2025
 # [ok]

@@ -1,0 +1,20 @@
+# target name        accession  query name           accession  hmmfrom hmm to  alifrom   ali to  envfrom   env to   sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- -------  -------  -------  -------  -------  ------- ------ --------- ------ ----- ---------------------
+SUPER_18             -          TR                   -               12     316  8113668  8113371  8113676  8113369  9953802    -     1.1e-20   80.6   3.8  -
+SUPER_16             -          TR                   -               68     245  5723451  5723254  5723471  5723237 10061403    -     1.5e-09   43.9   2.4  -
+SUPER_29             -          TR                   -               32     122  4072224  4072314  4072204  4072335  6922304    +        0.16   17.6   2.9  -
+SUPER_4              -          TR                   -               13     122  8534914  8534749  8534918  8534729 13186355    -        0.93   15.1   6.6  -
+SUPER_21             -          TR                   -               67     124   607742   607801   607719   607820  9270522    +         1.8   14.1   0.5  -
+SUPER_5              -          TR                   -              102     158  4840085  4840147  4840055  4840149 12380884    +         4.7   12.8   1.1  -
+SUPER_4              -          TR                   -              109     187 12354238 12354311 12354218 12354317 13186355    +         7.1   12.2   2.1  -
+SUPER_11             -          TR                   -               89     141  1236332  1236385  1236303  1236405 10546670    +         8.2   12.0   0.2  -
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ../original_data/TR.hmm
+# Target file:     /lustre/scratch124/tol/projects/darwin/data/monocots/Scirpus_sylvaticus/assembly/curated/lpSciSylv1.1/lpSciSylv1.hap1.1.primary.fa.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ../working/TR_tbl_outputs/Scirpus_sylvaticus.tbl --dna --cpu 20 ../original_data/TR.hmm /lustre/scratch124/tol/projects/darwin/data/monocots/Scirpus_sylvaticus/assembly/curated/lpSciSylv1.1/lpSciSylv1.hap1.1.primary.fa.gz 
+# Current dir:     /lustre/scratch123/tol/teams/blaxter/users/mb39/ARU/tr_detection/src
+# Date:            Fri Apr 18 20:18:50 2025
+# [ok]
