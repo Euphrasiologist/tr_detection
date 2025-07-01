@@ -1,145 +1,252 @@
-/lustre/scratch124/tol/projects/darwin/data/dicots/Ajuga_chamaepitys/assembly/curated/daAjuCham1.1/daAjuCham1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Arctium_minus/assembly/curated/daArcMinu1.1/daArcMinu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Ballota_nigra/assembly/curated/daBalNigr1.1/daBalNigr1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Calendula_officinalis/assembly/curated/daCalOffi1.1/daCalOffi1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Calystegia_soldanella/assembly/curated/daCalSold1.1/daCalSold1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Convolvulus_arvensis/assembly/curated/daConArve2.1/daConArve2.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Cruciata_laevipes/assembly/curated/daCruLaev1.1/daCruLaev1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Euphrasia_confusa/assembly/curated/daEupConf1.1/daEupConf1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Filago_lutescens/assembly/curated/daFilLute1.1/daFilLute1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Galium_aparine/assembly/curated/daGalApar1.1/daGalApar1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Galeopsis_tetrahit/assembly/curated/daGalTetr1.1/daGalTetr1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Gnaphalium_supinum/assembly/curated/daGnaSupi1.1/daGnaSupi1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Gnaphalium_uliginosum/assembly/curated/daGnaUlig1.1/daGnaUlig1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Jasione_montana/assembly/curated/daJasMont1.1/daJasMont1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Lamium_amplexicaule/assembly/curated/daLamAmpl1.1/daLamAmpl1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Ligustrum_vulgare/assembly/curated/daLigVulg1.1/daLigVulg1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Linaria_vulgaris/assembly/curated/daLinVulg1.1/daLinVulg1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Logfia_minima/assembly/curated/daLogMini1.1/daLogMini1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Lycopus_europaeus/assembly/curated/daLycEuro1.1/daLycEuro1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Matricaria_chamomilla/assembly/curated/daMatCham1.1/daMatCham1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Matricaria_discoidea/assembly/curated/daMatDisc1.1/daMatDisc1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Misopates_orontium/assembly/curated/daMisOron1.1/daMisOron1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Pentaglottis_sempervirens/assembly/curated/daPenSemp1.1/daPenSemp1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Pseudognaphalium_luteoalbum/assembly/curated/daPseLute1.1/daPseLute1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Pulicaria_dysenterica/assembly/curated/daPulDyse1.1/daPulDyse1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Rhinanthus_minor/assembly/curated/daRhiMino1.1/daRhiMino1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Sambucus_nigra/assembly/curated/daSamNigr1.1/daSamNigr1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Scutellaria_galericulata/assembly/curated/daScuGale1.1/daScuGale1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Scutellaria_minor/assembly/curated/daScuMino1.0/daScuMino1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Sherardia_arvensis/assembly/curated/daSheArve1.1/daSheArve1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Solanum_dulcamara/assembly/curated/daSolDulc1.1/daSolDulc1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Solanum_nigrum/assembly/curated/daSolNigr1.1/daSolNigr1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Tanacetum_parthenium/assembly/curated/daTanPart1.1/daTanPart1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Tanacetum_vulgare/assembly/curated/daTanVulg1.1/daTanVulg1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Tragopogon_pratensis/assembly/curated/daTraPrat1.1/daTraPrat1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Veronica_arvensis/assembly/curated/daVerArve1.1/daVerArve1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Verbena_officinalis/assembly/curated/daVerOffi1.1/daVerOffi1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Veronica_serpyllifolia/assembly/curated/daVerSerp1.1/daVerSerp1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Verbascum_thapsus/assembly/curated/daVerThap1.1/daVerThap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Veronica_triphyllos/assembly/curated/daVerTrip1.1/daVerTrip1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Veronica_verna/assembly/curated/daVerVern1.1/daVerVern1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Agrostemma_githago/assembly/curated/dcAgrGith1.1/dcAgrGith1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Arenaria_serpyllifolia/assembly/curated/dcAreSerp1.1/dcAreSerp1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Chenopodium_album/assembly/curated/dcCheAlbu1.1/dcCheAlbu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Fallopia_convolvulus/assembly/curated/dcFalConv1.1/dcFalConv1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Moehringia_trinervia/assembly/curated/dcMoeTrin1.1/dcMoeTrin1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Oxyria_digyna/assembly/curated/dcOxyDigy1.1/dcOxyDigy1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Persicaria_maculosa/assembly/curated/dcPerMacu1.1/dcPerMacu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Polygonum_aviculare/assembly/curated/dcPolAvic1.1/dcPolAvic1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Polygonum_maritimum/assembly/curated/dcPolMari1.1/dcPolMari1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Salicornia_ramosissima/assembly/curated/dcSalRamo1.1/dcSalRamo1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Spergularia_bocconei/assembly/curated/dcSpeBocc1.1/dcSpeBocc1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Spergularia_marina/assembly/curated/dcSpeMari1.1/dcSpeMari1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Tamarix_gallica/assembly/curated/dcTamGall1.1/dcTamGall1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Arabis_hirsuta/assembly/curated/ddAraHirs1.1/ddAraHirs1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Arabidopsis_thaliana/assembly/curated/ddAraThal4.1/ddAraThal4.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Barbarea_vulgaris/assembly/curated/ddBarVulg1.1/ddBarVulg1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Brassica_nigra/assembly/curated/ddBraNigr2.1/ddBraNigr2.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Calluna_vulgaris/assembly/curated/ddCalVulg4.1/ddCalVulg4.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Cardamine_flexuosa/assembly/curated/ddCarFlex1.1/ddCarFlex1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Cardamine_hirsuta/assembly/curated/ddCarHirs1.1/ddCarHirs1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Draba_incana/assembly/curated/ddDraInca1.1/ddDraInca1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Draba_verna/assembly/curated/ddDraVern1.1/ddDraVern1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Euphorbia_lathyris/assembly/curated/ddEupLath1.1/ddEupLath1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Euphorbia_peplus/assembly/curated/ddEupPepu3.1/ddEupPepu3.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Hibiscus_tridactylites/assembly/curated/ddHibTrid2.1/ddHibTrid2.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Hypericum_androsaemum/assembly/curated/ddHypAndr1.1/ddHypAndr1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Hypericum_hirsutum/assembly/curated/ddHypHirs1.1/ddHypHirs1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Hypericum_pulchrum/assembly/curated/ddHypPulc1.1/ddHypPulc1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Lepidium_didymum/assembly/curated/ddLepDidy1.1/ddLepDidy1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Mercurialis_annua/assembly/curated/ddMerAnnu1.1/ddMerAnnu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Nasturtium_officinale/assembly/curated/ddNasOffi1.1/ddNasOffi1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Populus_nigra/assembly/curated/ddPopNigr1.1/ddPopNigr1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Populus_tremula/assembly/curated/ddPopTrem1.1/ddPopTrem1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Primula_veris/assembly/curated/ddPriVeri1.1/ddPriVeri1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Primula_vulgaris/assembly/curated/ddPriVulg1.1/ddPriVulg1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Salix_caprea/assembly/curated/ddSalCapr1.1/ddSalCapr1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Samolus_valerandi/assembly/curated/ddSamVale1.1/ddSamVale1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Vaccinium_vitis_idaea/assembly/curated/ddVacViti1.1/ddVacViti1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Viola_odorata/assembly/curated/ddVioOdor1.1/ddVioOdor1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Alnus_glutinosa/assembly/curated/dhAlnGlut1.1_newer/dhAlnGlut1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Fagus_sylvatica/assembly/curated/dhFagSylv1.1/dhFagSylv1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Myrica_gale/assembly/curated/dhMyrGale1.1/dhMyrGale1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Quercus_cerris/assembly/curated/dhQueCerr2.1/dhQueCerr2.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Quercus_petraea/assembly/curated/dhQuePetr1.1/dhQuePetr1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Quercus_robur/assembly/curated/dhQueRobu3.1/dhQueRobu3.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Impatiens_glandulifera/assembly/curated/dImpGla2.1/dImpGla2.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Adonis_annua/assembly/curated/dmAdoAnnu1.1/dmAdoAnnu1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Berberis_vulgaris/assembly/curated/dmBerVulg1.1/dmBerVulg1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Acaena_ovalifolia/assembly/curated/drAcaOval1.1/drAcaOval1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Acer_campestre/assembly/curated/drAceCamp1.0/drAceCamp1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Ailanthus_altissima/assembly/curated/drAilAlti1.1/drAilAlti1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Astragalus_alpinus/assembly/curated/drAstAlpi1.1/drAstAlpi1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Astragalus_glycyphyllos/assembly/curated/drAstGlyc1.1/drAstGlyc1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Buxus_sempervirens/assembly/curated/drBuxSemp1.1/drBuxSemp1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Chamaenerion_angustifolium/assembly/curated/drChaAngu1.1/drChaAngu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Comarum_palustre/assembly/curated/drComPalu1.1/drComPalu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Cornus_suecica/assembly/curated/drCorSuec2.1/drCorSuec2.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Crataegus_laevigata/assembly/curated/drCraLaev2.1/drCraLaev2.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Dryas_octopetala/assembly/curated/drDryOcto1.1/drDryOcto1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Erodium_maritimum/assembly/curated/drEroMari8.1/drEroMari8.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Euonymus_europaeus/assembly/curated/drEuoEuro1.1/drEuoEuro1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Filipendula_ulmaria/assembly/curated/drFilUlma1.1/drFilUlma1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Frangula_alnus/assembly/curated/drFraAlnu1.1/drFraAlnu1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Fragaria_moschata/assembly/curated/drFraMosc1.1/drFraMosc1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Fragaria_vesca/assembly/curated/drFraVesc1.1/drFraVesc1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Geranium_rotundifolium/assembly/curated/drGerRotu1.1/drGerRotu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Geum_rivale/assembly/curated/drGeuRiva1.1/drGeuRiva1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Geum_urbanum/assembly/curated/drGeuUrba1.1/drGeuUrba1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Hedera_helix/assembly/curated/drHedHeli1.1/drHedHeli1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Humulus_lupulus/assembly/curated/drHumLupu1.1/drHumLupu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Hydrocotyle_vulgaris/assembly/curated/drHydVulg1.1/drHydVulg1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Ilex_aquifolium/assembly/curated/drIleAqui2.1/drIleAqui2.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Laburnum_anagyroides/assembly/curated/drLabAnag1.1/drLabAnag1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Lathyrus_aphaca/assembly/curated/drLatApha1.1/drLatApha1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Malus_domestica/assembly/curated/drMalDome5.2/drMalDome5.2.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Malus_domestica/assembly/curated/drMalDome5.3/drMalDome5.3.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Malus_domestica/assembly/curated/drMalDome10.2/drMalDome10.2.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Malus_domestica/assembly/curated/drMalDome11.2/drMalDome11.2.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Malus_domestica/assembly/curated/drMalDome58.2/drMalDome58.2.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Malus_domestica/assembly/curated/drMalDome58.3/drMalDome58.3.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Malus_x_robusta/assembly/curated/drMalRobu1.1/drMalRobu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Malus_sylvestris/assembly/curated/drMalSylv7.2/drMalSylv7.2.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Medicago_arabica/assembly/curated/drMedArab1.1/drMedArab1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Medicago_lupulina/assembly/curated/drMedLupu1.1/drMedLupu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Parietaria_judaica/assembly/curated/drParJuda1.0/drParJuda1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Potentilla_anserina/assembly/curated/drPotAnse1.0/drPotAnse1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Potentilla_sterilis/assembly/curated/drPotSter1.1/drPotSter1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Prunus_padus/assembly/curated/drPruPadu1.1/drPruPadu1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Pyrus_communis/assembly/curated/drPyrComm1.1/drPyrComm1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Rosa_rugosa/assembly/curated/drRosRugo1.1/drRosRugo1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Rubus_caesius/assembly/curated/drRubCaes1.1/drRubCaes1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Trifolium_dubium/assembly/curated/drTriDubi3.1/drTriDubi3.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Trifolium_fragiferum/assembly/curated/drTriFrag1.0/drTriFrag1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Trifolium_fragiferum/assembly/curated/drTriFrag1.1/drTriFrag1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Trifolium_occidentale/assembly/curated/drTriOcci1.1/drTriOcci1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Trifolium_striatum/assembly/curated/drTriStri1.1/drTriStri1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Trifolium_subterraneum/assembly/curated/drTriSubt1.1/drTriSubt1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Ulmus_glabra/assembly/curated/drUlmGlab3.1/drUlmGlab3.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Umbilicus_rupestris/assembly/curated/drUmbRupe1.1/drUmbRupe1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Urtica_dioica/assembly/curated/drUrtDioi1.1/drUrtDioi1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Urtica_urens/assembly/curated/drUrtUren1.1/drUrtUren1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Vicia_sativa/assembly/curated/drVicSati1.1/drVicSati1.hap1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Viscum_album/assembly/curated/drVisAlbu1.1/drVisAlbu1.1.primary.fa.gz
-/lustre/scratch124/tol/projects/darwin/data/dicots/Senecio_squalidus/assembly/curated/dSenSqu2.1/dSenSqu2.1.primary.fa.gz
+Spergularia_marina	/data/tol/data/darwin/dicots/Spergularia_marina/assembly/curated/dcSpeMari1.1/dcSpeMari1.1.primary.fa.gz
+Potentilla_anserina	/data/tol/data/darwin/dicots/Potentilla_anserina/assembly/curated/drPotAnse1.1/drPotAnse1.1.primary.fa.gz
+Lycopus_europaeus	/data/tol/data/darwin/dicots/Lycopus_europaeus/assembly/curated/daLycEuro1.1/daLycEuro1.1.primary.fa.gz
+Logfia_minima	/data/tol/data/darwin/dicots/Logfia_minima/assembly/curated/daLogMini1.1/daLogMini1.1.primary.fa.gz
+Ligustrum_vulgare	/data/tol/data/darwin/dicots/Ligustrum_vulgare/assembly/curated/daLigVulg1.1/daLigVulg1.1.primary.fa.gz
+Vicia_sativa	/data/tol/data/darwin/dicots/Vicia_sativa/assembly/curated/drVicSati1.1/drVicSati1.hap2.1.primary.fa.gz
+Impatiens_noli_tangere	/data/tol/data/darwin/dicots/Impatiens_noli_tangere/assembly/curated/ddImpNoli1.1/ddImpNoli1.hap1.1.primary.fa.gz
+Carduus_nutans	/data/tol/data/darwin/dicots/Carduus_nutans/assembly/curated/daCarNuta1.1/daCarNuta1.hap2.1.primary.fa.gz
+Cuscuta_epithymum	/data/tol/data/darwin/dicots/Cuscuta_epithymum/assembly/curated/daCusEpit1.1/daCusEpit1.1.primary.fa.gz
+Hibiscus_tridactylites	/data/tol/data/darwin/dicots/Hibiscus_tridactylites/assembly/curated/ddHibTrid2.1/ddHibTrid2.1.primary.fa.gz
+Senecio_sylvaticus	/data/tol/data/darwin/dicots/Senecio_sylvaticus/assembly/curated/daSenSylv1.1/daSenSylv1.hap2.1.primary.fa.gz
+Glaux_maritima	/data/tol/data/darwin/dicots/Glaux_maritima/assembly/curated/ddGlaMari2.1/ddGlaMari2.hap2.1.primary.fa.gz
+Polycarpon_tetraphyllum	/data/tol/data/darwin/dicots/Polycarpon_tetraphyllum/assembly/curated/dcPolTetr1.1/dcPolTetr1.hap1.1.primary.fa.gz
+Hypericum_pulchrum	/data/tol/data/darwin/dicots/Hypericum_pulchrum/assembly/curated/ddHypPulc1.1/ddHypPulc1.hap1.1.primary.fa.gz
+Ribes_nigrum	/data/tol/data/darwin/dicots/Ribes_nigrum/assembly/curated/drRibNigr1.1/drRibNigr1.hap1.1.primary.fa.gz
+Vaccinium_vitis_idaea	/data/tol/data/darwin/dicots/Vaccinium_vitis_idaea/assembly/curated/ddVacViti1.2/ddVacViti1.2.primary.fa.gz
+Chenopodium_album	/data/tol/data/darwin/dicots/Chenopodium_album/assembly/curated/dcCheAlbu1.1/dcCheAlbu1.1.primary.fa.gz
+Tanacetum_vulgare	/data/tol/data/darwin/dicots/Tanacetum_vulgare/assembly/curated/daTanVulg1.1/daTanVulg1.hap2.1.primary.fa.gz
+Tussilago_farfara	/data/tol/data/darwin/dicots/Tussilago_farfara/assembly/curated/daTusFarf1.1/daTusFarf1.hap1.1.primary.fa.gz
+Chamaenerion_angustifolium	/data/tol/data/darwin/dicots/Chamaenerion_angustifolium/assembly/curated/drChaAngu1.1/drChaAngu1.1.primary.fa.gz
+Arabis_hirsuta	/data/tol/data/darwin/dicots/Arabis_hirsuta/assembly/curated/ddAraHirs1.1/ddAraHirs1.hap2.1.primary.fa.gz
+Mercurialis_annua	/data/tol/data/darwin/dicots/Mercurialis_annua/assembly/curated/ddMerAnnu1.2/ddMerAnnu1.2.primary.fa.gz
+Cirsium_eriophorum	/data/tol/data/darwin/dicots/Cirsium_eriophorum/assembly/curated/daCirErio1.1/daCirErio1.hap1.1.primary.fa.gz
+Teucrium_scorodonia	/data/tol/data/darwin/dicots/Teucrium_scorodonia/assembly/curated/daTeuScoo1.1/daTeuScoo1.hap2.1.primary.fa.gz
+Populus_tremula	/data/tol/data/darwin/dicots/Populus_tremula/assembly/curated/ddPopTrem1.1/ddPopTrem1.hap1.1.primary.fa.gz
+Rubus_caesius	/data/tol/data/darwin/dicots/Rubus_caesius/assembly/curated/drRubCaes1.1/drRubCaes1.hap1.1.primary.fa.gz
+Ulmus_glabra	/data/tol/data/darwin/dicots/Ulmus_glabra/assembly/curated/drUlmGlab3.1/drUlmGlab3.hap2.1.primary.fa.gz
+Geum_rivale	/data/tol/data/darwin/dicots/Geum_rivale/assembly/curated/drGeuRiva1.1/drGeuRiva1.hap1.1.primary.fa.gz
+Scutellaria_galericulata	/data/tol/data/darwin/dicots/Scutellaria_galericulata/assembly/curated/daScuGale1.1/daScuGale1.1.primary.fa.gz
+Petasites_albus	/data/tol/data/darwin/dicots/Petasites_albus/assembly/curated/daPetAlbu1.1/daPetAlbu1.hap2.1.primary.fa.gz
+Rosa_agrestis	/data/tol/data/darwin/dicots/Rosa_agrestis/assembly/curated/drRosAgre1.1/drRosAgre1.hap1.1.primary.fa.gz
+Galium_uliginosum	/data/tol/data/darwin/dicots/Galium_uliginosum/assembly/curated/daGalUlig1.1/daGalUlig1.hap1.1.primary.fa.gz
+Hottonia_palustris	/data/tol/data/darwin/dicots/Hottonia_palustris/assembly/curated/ddHotPalu2.1/ddHotPalu2.hap1.1.primary.fa.gz
+Moehringia_trinervia	/data/tol/data/darwin/dicots/Moehringia_trinervia/assembly/curated/dcMoeTrin1.1/dcMoeTrin1.hap1.1.primary.fa.gz
+Alnus_glutinosa	/data/tol/data/darwin/dicots/Alnus_glutinosa/assembly/curated/dhAlnGlut1.1/dhAlnGlut1.1.primary.fa.gz
+Viola_tricolor	/data/tol/data/darwin/dicots/Viola_tricolor/assembly/curated/ddVioTric1.1/ddVioTric1.hap1.1.primary.fa.gz
+Verbena_officinalis	/data/tol/data/darwin/dicots/Verbena_officinalis/assembly/curated/daVerOffi1.1/daVerOffi1.1.primary.fa.gz
+Pyrus_communis	/data/tol/data/darwin/dicots/Pyrus_communis/assembly/curated/drPyrComm1.1/drPyrComm1.1.primary.fa.gz
+Trifolium_bocconei	/data/tol/data/darwin/dicots/Trifolium_bocconei/assembly/curated/drTriBocc1.1/drTriBocc1.hap1.1.primary.fa.gz
+Alnus_cordata	/data/tol/data/darwin/dicots/Alnus_cordata/assembly/curated/dhAlnCord1.1/dhAlnCord1.hap1.1.primary.fa.gz
+Impatiens_parviflora	/data/tol/data/darwin/dicots/Impatiens_parviflora/assembly/curated/ddImpParv1.1/ddImpParv1.hap1.1.primary.fa.gz
+Lotus_pedunculatus	/data/tol/data/darwin/dicots/Lotus_pedunculatus/assembly/curated/drLotPedu3.1/drLotPedu3.1.primary.fa.gz
+Hydrocotyle_vulgaris	/data/tol/data/darwin/dicots/Hydrocotyle_vulgaris/assembly/curated/drHydVulg1.1/drHydVulg1.hap1.1.primary.fa.gz
+Linaria_vulgaris	/data/tol/data/darwin/dicots/Linaria_vulgaris/assembly/curated/daLinVulg1.1/daLinVulg1.1.primary.fa.gz
+Cardamine_flexuosa	/data/tol/data/darwin/dicots/Cardamine_flexuosa/assembly/curated/ddCarFlex1.1/ddCarFlex1.1.primary.fa.gz
+Cardamine_hirsuta	/data/tol/data/darwin/dicots/Cardamine_hirsuta/assembly/curated/ddCarHirs1.1/ddCarHirs1.hap1.1.primary.fa.gz
+Nasturtium_officinale	/data/tol/data/darwin/dicots/Nasturtium_officinale/assembly/curated/ddNasOffi1.1/ddNasOffi1.1.primary.fa.gz
+Fagus_sylvatica	/data/tol/data/darwin/dicots/Fagus_sylvatica/assembly/curated/dhFagSylv1.1/dhFagSylv1.hap2.1.primary.fa.gz
+Jacobaea_maritima	/data/tol/data/darwin/dicots/Jacobaea_maritima/assembly/curated/daJacMari1.1/daJacMari1.hap2.1.primary.fa.gz
+Prunus_avium	/data/tol/data/darwin/dicots/Prunus_avium/assembly/curated/drPruAviu1.1/drPruAviu1.hap1.1.primary.fa.gz
+Ajuga_chamaepitys	/data/tol/data/darwin/dicots/Ajuga_chamaepitys/assembly/curated/daAjuCham1.1/daAjuCham1.1.primary.fa.gz
+Ranunculus_sceleratus	/data/tol/data/darwin/dicots/Ranunculus_sceleratus/assembly/curated/dmRanScel1.1/dmRanScel1.hap1.1.primary.fa.gz
+Inula_salicina	/data/tol/data/darwin/dicots/Inula_salicina/assembly/curated/daInuSali1.1/daInuSali1.hap2.1.primary.fa.gz
+Galatella_linosyris	/data/tol/data/darwin/dicots/Galatella_linosyris/assembly/curated/daGalLino1.1/daGalLino1.hap1.1.primary.fa.gz
+Cornus_suecica	/data/tol/data/darwin/dicots/Cornus_suecica/assembly/curated/drCorSuec2.1/drCorSuec2.1.primary.fa.gz
+Veronica_persica	/data/tol/data/darwin/dicots/Veronica_persica/assembly/curated/daVerPers1.1/daVerPers1.hap1.1.primary.fa.gz
+Filipendula_ulmaria	/data/tol/data/darwin/dicots/Filipendula_ulmaria/assembly/curated/drFilUlma1.1/drFilUlma1.1.primary.fa.gz
+Misopates_orontium	/data/tol/data/darwin/dicots/Misopates_orontium/assembly/curated/daMisOron1.1/daMisOron1.1.primary.fa.gz
+Spergularia_bocconei	/data/tol/data/darwin/dicots/Spergularia_bocconei/assembly/curated/dcSpeBocc1.1/dcSpeBocc1.1.primary.fa.gz
+Ranunculus_sardous	/data/tol/data/darwin/dicots/Ranunculus_sardous/assembly/curated/dmRanSard1.1/dmRanSard1.hap2.1.primary.fa.gz
+Stachys_alpina	/data/tol/data/darwin/dicots/Stachys_alpina/assembly/curated/daStaAlpi1.1/daStaAlpi1.hap2.1.primary.fa.gz
+Lobelia_urens	/data/tol/data/darwin/dicots/Lobelia_urens/assembly/curated/daLobUren4.1/daLobUren4.hap2.1.primary.fa.gz
+Galeopsis_tetrahit	/data/tol/data/darwin/dicots/Galeopsis_tetrahit/assembly/curated/daGalTetr1.2/daGalTetr1.2.primary.fa.gz
+Veronica_serpyllifolia	/data/tol/data/darwin/dicots/Veronica_serpyllifolia/assembly/curated/daVerSerp1.1/daVerSerp1.hap1.1.primary.fa.gz
+Viola_odorata	/data/tol/data/darwin/dicots/Viola_odorata/assembly/curated/ddVioOdor1.1/ddVioOdor1.1.primary.fa.gz
+Matthiola_sinuata	/data/tol/data/darwin/dicots/Matthiola_sinuata/assembly/curated/ddMatSinu1.1/ddMatSinu1.hap1.1.primary.fa.gz
+Dryas_octopetala	/data/tol/data/darwin/dicots/Dryas_octopetala/assembly/curated/drDryOcto1.1/drDryOcto1.1.primary.fa.gz
+Erodium_moschatum	/data/tol/data/darwin/dicots/Erodium_moschatum/assembly/curated/drEroMosc1.1/drEroMosc1.hap1.1.primary.fa.gz
+Persicaria_amphibia	/data/tol/data/darwin/dicots/Persicaria_amphibia/assembly/curated/dcPerAmph1.1/dcPerAmph1.hap2.1.primary.fa.gz
+Armoracia_rusticana	/data/tol/data/darwin/dicots/Armoracia_rusticana/assembly/curated/ddArmRust1.1/ddArmRust1.hap1.1.primary.fa.gz
+Medicago_arabica	/data/tol/data/darwin/dicots/Medicago_arabica/assembly/curated/drMedArab1.1/drMedArab1.1.primary.fa.gz
+Astragalus_glycyphyllos	/data/tol/data/darwin/dicots/Astragalus_glycyphyllos/assembly/curated/drAstGlyc1.1/drAstGlyc1.1.primary.fa.gz
+Lythrum_hyssopifolia	/data/tol/data/darwin/dicots/Lythrum_hyssopifolia/assembly/curated/drLytHyso1.1/drLytHyso1.hap1.1.primary.fa.gz
+Alnus_incana	/data/tol/data/darwin/dicots/Alnus_incana/assembly/curated/dhAlnInca1.1/dhAlnInca1.hap2.1.primary.fa.gz
+Filago_lutescens	/data/tol/data/darwin/dicots/Filago_lutescens/assembly/curated/daFilLute1.1/daFilLute1.hap1.1.primary.fa.gz
+Ribes_rubrum	/data/tol/data/darwin/dicots/Ribes_rubrum/assembly/curated/drRibRubr1.1/drRibRubr1.hap1.1.primary.fa.gz
+Aquilegia_vulgaris	/data/tol/data/darwin/dicots/Aquilegia_vulgaris/assembly/curated/dmAquVulg1.1/dmAquVulg1.hap1.1.primary.fa.gz
+Berberis_aquifolium	/data/tol/data/darwin/dicots/Berberis_aquifolium/assembly/curated/dmBerAqui1.1/dmBerAqui1.hap1.1.primary.fa.gz
+Heracleum_sphondylium	/data/tol/data/darwin/dicots/Heracleum_sphondylium/assembly/curated/drHerSpho1.1/drHerSpho1.hap2.1.primary.fa.gz
+Geranium_molle	/data/tol/data/darwin/dicots/Geranium_molle/assembly/curated/drGerMoll1.1/drGerMoll1.hap1.1.primary.fa.gz
+Linum_bienne	/data/tol/data/darwin/dicots/Linum_bienne/assembly/curated/ddLinBien1.1/ddLinBien1.hap1.1.primary.fa.gz
+Fragaria_moschata	/data/tol/data/darwin/dicots/Fragaria_moschata/assembly/curated/drFraMosc1.1/drFraMosc1.hap1.1.primary.fa.gz
+Ulex_minor	/data/tol/data/darwin/dicots/Ulex_minor/assembly/curated/drUleMino1.1/drUleMino1.hap1.1.primary.fa.gz
+Spinacia_oleracea	/data/tol/data/darwin/dicots/Spinacia_oleracea/assembly/curated/dcSpiOler1.1/dcSpiOler1.hap1.1.primary.fa.gz
+Malus_x_robusta	/data/tol/data/darwin/dicots/Malus_x_robusta/assembly/curated/drMalRobu1.1/drMalRobu1.1.primary.fa.gz
+Acer_campestre	/data/tol/data/darwin/dicots/Acer_campestre/assembly/curated/drAceCamp1.1/drAceCamp1.1.primary.fa.gz
+Euphorbia_lathyris	/data/tol/data/darwin/dicots/Euphorbia_lathyris/assembly/curated/ddEupLath1.1/ddEupLath1.1.primary.fa.gz
+Hibiscus_verdcourtii	/data/tol/data/darwin/dicots/Hibiscus_verdcourtii/assembly/curated/ddHibVerd5.1/ddHibVerd5.1.primary.fa.gz
+Lathyrus_aphaca	/data/tol/data/darwin/dicots/Lathyrus_aphaca/assembly/curated/drLatApha1.1/drLatApha1.1.primary.fa.gz
+Draba_verna	/data/tol/data/darwin/dicots/Draba_verna/assembly/curated/ddDraVern1.1/ddDraVern1.hap1.1.primary.fa.gz
+Malva_neglecta	/data/tol/data/darwin/dicots/Malva_neglecta/assembly/curated/ddMalNegl1.1/ddMalNegl1.hap2.1.primary.fa.gz
+Filago_pyramidata	/data/tol/data/darwin/dicots/Filago_pyramidata/assembly/curated/daFilPyra1.1/daFilPyra1.hap1.1.primary.fa.gz
+Veronica_verna	/data/tol/data/darwin/dicots/Veronica_verna/assembly/curated/daVerVern1.1/daVerVern1.1.primary.fa.gz
+Urtica_dioica	/data/tol/data/darwin/dicots/Urtica_dioica/assembly/curated/drUrtDioi1.1/drUrtDioi1.1.primary.fa.gz
+Viscum_album	/data/tol/data/darwin/dicots/Viscum_album/assembly/curated/drVisAlbu1.1/drVisAlbu1.1.primary.fa.gz
+Laburnum_anagyroides	/data/tol/data/darwin/dicots/Laburnum_anagyroides/assembly/curated/drLabAnag1.1/drLabAnag1.hap1.1.primary.fa.gz
+Veronica_triphyllos	/data/tol/data/darwin/dicots/Veronica_triphyllos/assembly/curated/daVerTrip1.1/daVerTrip1.1.primary.fa.gz
+Rhododendron_ponticum	/data/tol/data/darwin/dicots/Rhododendron_ponticum/assembly/curated/ddRhoPont1.1/ddRhoPont1.hap1.1.primary.fa.gz
+Pentaglottis_sempervirens	/data/tol/data/darwin/dicots/Pentaglottis_sempervirens/assembly/curated/daPenSemp1.1/daPenSemp1.hap1.1.primary.fa.gz
+Carlina_vulgaris	/data/tol/data/darwin/dicots/Carlina_vulgaris/assembly/curated/daCarVulg1.1/daCarVulg1.hap1.1.primary.fa.gz
+Ribes_uva_crispa	/data/tol/data/darwin/dicots/Ribes_uva_crispa/assembly/curated/drRibUvac1.1/drRibUvac1.hap1.1.primary.fa.gz
+Melampyrum_sylvaticum	/data/tol/data/darwin/dicots/Melampyrum_sylvaticum/assembly/curated/daMelSylv1.1/daMelSylv1.1.primary.fa.gz
+Malus_sylvestris	/data/tol/data/darwin/dicots/Malus_sylvestris/assembly/curated/drMalSylv7.3/drMalSylv7.3.primary.fa.gz
+Verbascum_nigrum	/data/tol/data/darwin/dicots/Verbascum_nigrum/assembly/curated/daVerNigr1.1/daVerNigr1.hap1.1.primary.fa.gz
+Polygonum_aviculare	/data/tol/data/darwin/dicots/Polygonum_aviculare/assembly/curated/dcPolAvic1.1/dcPolAvic1.1.primary.fa.gz
+Crataegus_laevigata	/data/tol/data/darwin/dicots/Crataegus_laevigata/assembly/curated/drCraLaev2.1/drCraLaev2.1.primary.fa.gz
+Nymphoides_peltata	/data/tol/data/darwin/dicots/Nymphoides_peltata/assembly/curated/daNymPelt1.1/daNymPelt1.hap1.1.primary.fa.gz
+Parietaria_judaica	/data/tol/data/darwin/dicots/Parietaria_judaica/assembly/curated/drParJuda1.1/drParJuda1.1.primary.fa.gz
+Torilis_japonica	/data/tol/data/darwin/dicots/Torilis_japonica/assembly/curated/drTorJapo1.1/drTorJapo1.hap2.1.primary.fa.gz
+Arctium_minus	/data/tol/data/darwin/dicots/Arctium_minus/assembly/curated/daArcMinu1.1/daArcMinu1.1.primary.fa.gz
+Lamium_purpureum	/data/tol/data/darwin/dicots/Lamium_purpureum/assembly/curated/daLamPurp1.1/daLamPurp1.hap1.1.primary.fa.gz
+Erica_ciliaris	/data/tol/data/darwin/dicots/Erica_ciliaris/assembly/curated/ddEriCili1.1/ddEriCili1.hap1.1.primary.fa.gz
+Trifolium_fragiferum	/data/tol/data/darwin/dicots/Trifolium_fragiferum/assembly/curated/drTriFrag1.1/drTriFrag1.1.primary.fa.gz
+Solanum_dulcamara	/data/tol/data/darwin/dicots/Solanum_dulcamara/assembly/curated/daSolDulc1.2/daSolDulc1.2.primary.fa.gz
+Rhinanthus_minor	/data/tol/data/darwin/dicots/Rhinanthus_minor/assembly/curated/daRhiMino1.1/daRhiMino1.hap1.1.primary.fa.gz
+Buxus_sempervirens	/data/tol/data/darwin/dicots/Buxus_sempervirens/assembly/curated/drBuxSemp1.3/drBuxSemp1.3.primary.fa.gz
+Potentilla_indica	/data/tol/data/darwin/dicots/Potentilla_indica/assembly/curated/drPotIndi1.1/drPotIndi1.hap2.1.primary.fa.gz
+Betula_pendula	/data/tol/data/darwin/dicots/Betula_pendula/assembly/curated/dhBetPend1.1/dhBetPend1.hap2.1.primary.fa.gz
+Primula_veris	/data/tol/data/darwin/dicots/Primula_veris/assembly/curated/ddPriVeri1.1/ddPriVeri1.1.primary.fa.gz
+Tripolium_pannonicum	/data/tol/data/darwin/dicots/Tripolium_pannonicum/assembly/curated/daTriPann2.1/daTriPann2.hap2.1.primary.fa.gz
+Salicornia_ramosissima	/data/tol/data/darwin/dicots/Salicornia_ramosissima/assembly/curated/dcSalRamo1.1/dcSalRamo1.1.primary.fa.gz
+Calluna_vulgaris	/data/tol/data/darwin/dicots/Calluna_vulgaris/assembly/curated/ddCalVulg4.1/ddCalVulg4.hap1.1.primary.fa.gz
+Gnaphalium_supinum	/data/tol/data/darwin/dicots/Gnaphalium_supinum/assembly/curated/daGnaSupi1.1/daGnaSupi1.hap1.1.primary.fa.gz
+Euphrasia_confusa	/data/tol/data/darwin/dicots/Euphrasia_confusa/assembly/curated/daEupConf1.1/daEupConf1.1.primary.fa.gz
+Medicago_lupulina	/data/tol/data/darwin/dicots/Medicago_lupulina/assembly/curated/drMedLupu1.1/drMedLupu1.1.primary.fa.gz
+Prunus_padus	/data/tol/data/darwin/dicots/Prunus_padus/assembly/curated/drPruPadu1.1/drPruPadu1.hap2.1.primary.fa.gz
+Rubus_idaeus	/data/tol/data/darwin/dicots/Rubus_idaeus/assembly/curated/drRubIdae1.1/drRubIdae1.hap2.1.primary.fa.gz
+Rosa_canina	/data/tol/data/darwin/dicots/Rosa_canina/assembly/curated/drRosCani1.1/drRosCani1.hap2.1.primary.fa.gz
+Pseudognaphalium_luteoalbum	/data/tol/data/darwin/dicots/Pseudognaphalium_luteoalbum/assembly/curated/daPseLute1.1/daPseLute1.1.primary.fa.gz
+Glechoma_hederacea	/data/tol/data/darwin/dicots/Glechoma_hederacea/assembly/curated/daGleHede1.1/daGleHede1.hap2.1.primary.fa.gz
+Convolvulus_arvensis	/data/tol/data/darwin/dicots/Convolvulus_arvensis/assembly/curated/daConArve2.1/daConArve2.hap2.1.primary.fa.gz
+Solanum_nigrum	/data/tol/data/darwin/dicots/Solanum_nigrum/assembly/curated/daSolNigr1.1/daSolNigr1.hap1.1.primary.fa.gz
+Primula_vulgaris	/data/tol/data/darwin/dicots/Primula_vulgaris/assembly/curated/ddPriVulg1.1/ddPriVulg1.1.primary.fa.gz
+Lobelia_dortmanna	/data/tol/data/darwin/dicots/Lobelia_dortmanna/assembly/curated/daLobDort1.1/daLobDort1.hap1.1.primary.fa.gz
+Corylus_avellana	/data/tol/data/darwin/dicots/Corylus_avellana/assembly/curated/dhCorAvel1.1/dhCorAvel1.hap2.1.primary.fa.gz
+Cirsium_heterophyllum	/data/tol/data/darwin/dicots/Cirsium_heterophyllum/assembly/curated/daCirHete1.1/daCirHete1.hap1.1.primary.fa.gz
+Descurainia_sophia	/data/tol/data/darwin/dicots/Descurainia_sophia/assembly/curated/ddDesSoph1.1/ddDesSoph1.hap1.1.primary.fa.gz
+Brassica_nigra	/data/tol/data/darwin/dicots/Brassica_nigra/assembly/curated/ddBraNigr2.1/ddBraNigr2.1.primary.fa.gz
+Ornithopus_perpusillus	/data/tol/data/darwin/dicots/Ornithopus_perpusillus/assembly/curated/drOrnPerp1.1/drOrnPerp1.hap1.1.primary.fa.gz
+Prunella_vulgaris	/data/tol/data/darwin/dicots/Prunella_vulgaris/assembly/curated/daPruVulg3.1/daPruVulg3.hap1.1.primary.fa.gz
+Lamium_amplexicaule	/data/tol/data/darwin/dicots/Lamium_amplexicaule/assembly/curated/daLamAmpl1.1/daLamAmpl1.hap1.1.primary.fa.gz
+Erodium_maritimum	/data/tol/data/darwin/dicots/Erodium_maritimum/assembly/curated/drEroMari8.1/drEroMari8.1.primary.fa.gz
+Euphrasia_tetraquetra	/data/tol/data/darwin/dicots/Euphrasia_tetraquetra/assembly/curated/daEupTetr3.1/daEupTetr3.hap2.1.primary.fa.gz
+Scutellaria_minor	/data/tol/data/darwin/dicots/Scutellaria_minor/assembly/curated/daScuMino1.1/daScuMino1.1.primary.fa.gz
+Astragalus_alpinus	/data/tol/data/darwin/dicots/Astragalus_alpinus/assembly/curated/drAstAlpi1.1/drAstAlpi1.hap1.1.primary.fa.gz
+Arabidopsis_thaliana	/data/tol/data/darwin/dicots/Arabidopsis_thaliana/assembly/curated/ddAraThal4.1/ddAraThal4.1.primary.fa.gz
+Matricaria_chamomilla	/data/tol/data/darwin/dicots/Matricaria_chamomilla/assembly/curated/daMatCham1.1/daMatCham1.hap1.1.primary.fa.gz
+Barbarea_vulgaris	/data/tol/data/darwin/dicots/Barbarea_vulgaris/assembly/curated/ddBarVulg1.1/ddBarVulg1.1.primary.fa.gz
+Humulus_lupulus	/data/tol/data/darwin/dicots/Humulus_lupulus/assembly/curated/drHumLupu1.1/drHumLupu1.1.primary.fa.gz
+Ilex_aquifolium	/data/tol/data/darwin/dicots/Ilex_aquifolium/assembly/curated/drIleAqui2.1/drIleAqui2.1.primary.fa.gz
+Hypericum_hircinum	/data/tol/data/darwin/dicots/Hypericum_hircinum/assembly/curated/ddHypHirc1.1/ddHypHirc1.hap1.1.primary.fa.gz
+Vicia_parviflora	/data/tol/data/darwin/dicots/Vicia_parviflora/assembly/curated/drVicParv1.1/drVicParv1.1.primary.fa.gz
+Quercus_robur	/data/tol/data/darwin/dicots/Quercus_robur/assembly/curated/dhQueRobu3.1/dhQueRobu3.1.primary.fa.gz
+Comarum_palustre	/data/tol/data/darwin/dicots/Comarum_palustre/assembly/curated/drComPalu1.1/drComPalu1.1.primary.fa.gz
+Salix_cinerea	/data/tol/data/darwin/dicots/Salix_cinerea/assembly/curated/ddSalCine1.1/ddSalCine1.hap2.1.primary.fa.gz
+Bellis_perennis	/data/tol/data/darwin/dicots/Bellis_perennis/assembly/curated/daBelPere1.1/daBelPere1.hap2.1.primary.fa.gz
+Genista_pilosa	/data/tol/data/darwin/dicots/Genista_pilosa/assembly/curated/drGenPilo1.1/drGenPilo1.hap1.1.primary.fa.gz
+Trifolium_striatum	/data/tol/data/darwin/dicots/Trifolium_striatum/assembly/curated/drTriStri1.1/drTriStri1.hap1.1.primary.fa.gz
+Urtica_urens	/data/tol/data/darwin/dicots/Urtica_urens/assembly/curated/drUrtUren1.1/drUrtUren1.1.primary.fa.gz
+Trifolium_occidentale	/data/tol/data/darwin/dicots/Trifolium_occidentale/assembly/curated/drTriOcci1.1/drTriOcci1.hap1.1.primary.fa.gz
+Ulmus_minor	/data/tol/data/darwin/dicots/Ulmus_minor/assembly/curated/drUlmMino1.1/drUlmMino1.hap2.1.primary.fa.gz
+Honckenya_peploides	/data/tol/data/darwin/dicots/Honckenya_peploides/assembly/curated/dcHonPepl1.1/dcHonPepl1.hap1.1.primary.fa.gz
+Arenaria_serpyllifolia	/data/tol/data/darwin/dicots/Arenaria_serpyllifolia/assembly/curated/dcAreSerp1.1/dcAreSerp1.hap1.1.primary.fa.gz
+Myriophyllum_alterniflorum	/data/tol/data/darwin/dicots/Myriophyllum_alterniflorum/assembly/curated/drMyrAlte1.1/drMyrAlte1.1.primary.fa.gz
+Oxyria_digyna	/data/tol/data/darwin/dicots/Oxyria_digyna/assembly/curated/dcOxyDigy1.1/dcOxyDigy1.hap1.1.primary.fa.gz
+Cirsium_dissectum	/data/tol/data/darwin/dicots/Cirsium_dissectum/assembly/curated/daCirDiss1.1/daCirDiss1.hap1.1.primary.fa.gz
+Verbascum_thapsus	/data/tol/data/darwin/dicots/Verbascum_thapsus/assembly/curated/daVerThap1.1/daVerThap1.1.primary.fa.gz
+Lepidium_didymum	/data/tol/data/darwin/dicots/Lepidium_didymum/assembly/curated/ddLepDidy1.1/ddLepDidy1.1.primary.fa.gz
+Lactuca_saligna	/data/tol/data/darwin/dicots/Lactuca_saligna/assembly/curated/daLacSali1.1/daLacSali1.hap1.1.primary.fa.gz
+Euphorbia_peplus	/data/tol/data/darwin/dicots/Euphorbia_peplus/assembly/curated/ddEupPepu3.1/ddEupPepu3.1.primary.fa.gz
+Geum_urbanum	/data/tol/data/darwin/dicots/Geum_urbanum/assembly/curated/drGeuUrba1.1/drGeuUrba1.1.primary.fa.gz
+Impatiens_glandulifera	/data/tol/data/darwin/dicots/Impatiens_glandulifera/assembly/curated/dImpGla2.1/dImpGla2.1.primary.fa.gz
+Linnaea_borealis	/data/tol/data/darwin/dicots/Linnaea_borealis/assembly/curated/daLinBore1.1/daLinBore1.hap1.1.primary.fa.gz
+Umbilicus_rupestris	/data/tol/data/darwin/dicots/Umbilicus_rupestris/assembly/curated/drUmbRupe1.1/drUmbRupe1.1.primary.fa.gz
+Calendula_officinalis	/data/tol/data/darwin/dicots/Calendula_officinalis/assembly/curated/daCalOffi1.1/daCalOffi1.1.primary.fa.gz
+Quercus_ilex	/data/tol/data/darwin/dicots/Quercus_ilex/assembly/curated/dhQueIlex1.1/dhQueIlex1.hap1.1.primary.fa.gz
+Tanacetum_parthenium	/data/tol/data/darwin/dicots/Tanacetum_parthenium/assembly/curated/daTanPart1.1/daTanPart1.hap1.1.primary.fa.gz
+Hypericum_hirsutum	/data/tol/data/darwin/dicots/Hypericum_hirsutum/assembly/curated/ddHypHirs1.1/ddHypHirs1.hap2.1.primary.fa.gz
+Adonis_annua	/data/tol/data/darwin/dicots/Adonis_annua/assembly/curated/dmAdoAnnu1.2/dmAdoAnnu1.hap2.2.primary.fa.gz
+Populus_nigra	/data/tol/data/darwin/dicots/Populus_nigra/assembly/curated/ddPopNigr1.1/ddPopNigr1.1.primary.fa.gz
+Jasione_montana	/data/tol/data/darwin/dicots/Jasione_montana/assembly/curated/daJasMont1.1/daJasMont1.hap2.1.primary.fa.gz
+Matricaria_discoidea	/data/tol/data/darwin/dicots/Matricaria_discoidea/assembly/curated/daMatDisc1.1/daMatDisc1.hap2.1.primary.fa.gz
+Acaena_ovalifolia	/data/tol/data/darwin/dicots/Acaena_ovalifolia/assembly/curated/drAcaOval1.1/drAcaOval1.hap1.1.primary.fa.gz
+Epilobium_hirsutum	/data/tol/data/darwin/dicots/Epilobium_hirsutum/assembly/curated/drEpiHirs1.1/drEpiHirs1.hap2.1.primary.fa.gz
+Primula_scotica	/data/tol/data/darwin/dicots/Primula_scotica/assembly/curated/ddPriScot1.1/ddPriScot1.hap1.1.primary.fa.gz
+Trocdaris_verticillatum	/data/tol/data/darwin/dicots/Trocdaris_verticillatum/assembly/curated/drTroVert1.1/drTroVert1.hap2.1.primary.fa.gz
+Calystegia_soldanella	/data/tol/data/darwin/dicots/Calystegia_soldanella/assembly/curated/daCalSold1.1/daCalSold1.hap1.1.primary.fa.gz
+Spergula_arvensis	/data/tol/data/darwin/dicots/Spergula_arvensis/assembly/curated/dcSpeArve1.1/dcSpeArve1.hap2.1.primary.fa.gz
+Agrostemma_githago	/data/tol/data/darwin/dicots/Agrostemma_githago/assembly/curated/dcAgrGith1.1/dcAgrGith1.1.primary.fa.gz
+Ailanthus_altissima	/data/tol/data/darwin/dicots/Ailanthus_altissima/assembly/curated/drAilAlti1.1/drAilAlti1.1.primary.fa.gz
+Ajuga_reptans	/data/tol/data/darwin/dicots/Ajuga_reptans/assembly/curated/daAjuRept1.1/daAjuRept1.hap1.1.primary.fa.gz
+Thalictrum_minus	/data/tol/data/darwin/dicots/Thalictrum_minus/assembly/curated/dmThaMinu1.1/dmThaMinu1.hap2.1.primary.fa.gz
+Euonymus_europaeus	/data/tol/data/darwin/dicots/Euonymus_europaeus/assembly/curated/drEuoEuro1.1/drEuoEuro1.1.primary.fa.gz
+Saxifraga_aizoides	/data/tol/data/darwin/dicots/Saxifraga_aizoides/assembly/curated/drSaxAizo1.1/drSaxAizo1.hap2.1.primary.fa.gz
+Senecio_squalidus	/data/tol/data/darwin/dicots/Senecio_squalidus/assembly/curated/dSenSqu2.1/dSenSqu2.1.primary.fa.gz
+Syringa_vulgaris	/data/tol/data/darwin/dicots/Syringa_vulgaris/assembly/curated/daSyrVulg1.1/daSyrVulg1.hap1.1.primary.fa.gz
+Draba_incana	/data/tol/data/darwin/dicots/Draba_incana/assembly/curated/ddDraInca1.1/ddDraInca1.1.primary.fa.gz
+Hypericum_androsaemum	/data/tol/data/darwin/dicots/Hypericum_androsaemum/assembly/curated/ddHypAndr1.1/ddHypAndr1.1.primary.fa.gz
+Gnaphalium_uliginosum	/data/tol/data/darwin/dicots/Gnaphalium_uliginosum/assembly/curated/daGnaUlig1.1/daGnaUlig1.1.primary.fa.gz
+Fragaria_vesca	/data/tol/data/darwin/dicots/Fragaria_vesca/assembly/curated/drFraVesc1.1/drFraVesc1.hap1.1.primary.fa.gz
+Euphorbia_maculata	/data/tol/data/darwin/dicots/Euphorbia_maculata/assembly/curated/ddEupMacu1.1/ddEupMacu1.hap2.1.primary.fa.gz
+Ononis_reclinata	/data/tol/data/darwin/dicots/Ononis_reclinata/assembly/curated/drOnoRecl1.1/drOnoRecl1.hap1.1.primary.fa.gz
+Malus_domestica	/data/tol/data/darwin/dicots/Malus_domestica/assembly/curated/drMalDome5.3/drMalDome5.3.primary.fa.gz
+Corylus_colurna	/data/tol/data/darwin/dicots/Corylus_colurna/assembly/curated/dhCorColu1.1/dhCorColu1.hap2.1.primary.fa.gz
+Salix_repens	/data/tol/data/darwin/dicots/Salix_repens/assembly/curated/ddSalRepe1.1/ddSalRepe1.hap2.1.primary.fa.gz
+Lysimachia_thyrsiflora	/data/tol/data/darwin/dicots/Lysimachia_thyrsiflora/assembly/curated/ddLysThyr1.1/ddLysThyr1.hap2.1.primary.fa.gz
+Quercus_petraea	/data/tol/data/darwin/dicots/Quercus_petraea/assembly/curated/dhQuePetr1.1/dhQuePetr1.hap1.1.primary.fa.gz
+Cymbalaria_muralis	/data/tol/data/darwin/dicots/Cymbalaria_muralis/assembly/curated/daCymMura1.1/daCymMura1.hap2.1.primary.fa.gz
+Hedera_helix	/data/tol/data/darwin/dicots/Hedera_helix/assembly/curated/drHedHeli1.2/drHedHeli1.2.primary.fa.gz
+Berberis_vulgaris	/data/tol/data/darwin/dicots/Berberis_vulgaris/assembly/curated/dmBerVulg1.1/dmBerVulg1.1.primary.fa.gz
+Galium_aparine	/data/tol/data/darwin/dicots/Galium_aparine/assembly/curated/daGalApar1.1/daGalApar1.hap1.1.primary.fa.gz
+Paulownia_tomentosa	/data/tol/data/darwin/dicots/Paulownia_tomentosa/assembly/curated/daPauTome1.1/daPauTome1.hap1.1.primary.fa.gz
+Viola_stagnina	/data/tol/data/darwin/dicots/Viola_stagnina/assembly/curated/ddVioStag1.1/ddVioStag1.1.primary.fa.gz
+Samolus_valerandi	/data/tol/data/darwin/dicots/Samolus_valerandi/assembly/curated/ddSamVale1.1/ddSamVale1.1.primary.fa.gz
+Trifolium_dubium	/data/tol/data/darwin/dicots/Trifolium_dubium/assembly/curated/drTriDubi3.1/drTriDubi3.1.primary.fa.gz
+Jacobaea_vulgaris	/data/tol/data/darwin/dicots/Jacobaea_vulgaris/assembly/curated/daJacVulg1.1/daJacVulg1.hap2.1.primary.fa.gz
+Polygonum_maritimum	/data/tol/data/darwin/dicots/Polygonum_maritimum/assembly/curated/dcPolMari1.1/dcPolMari1.1.primary.fa.gz
+Frangula_alnus	/data/tol/data/darwin/dicots/Frangula_alnus/assembly/curated/drFraAlnu1.1/drFraAlnu1.hap1.1.primary.fa.gz
+Myrica_gale	/data/tol/data/darwin/dicots/Myrica_gale/assembly/curated/dhMyrGale1.1/dhMyrGale1.1.primary.fa.gz
+Lathyrus_linifolius	/data/tol/data/darwin/dicots/Lathyrus_linifolius/assembly/curated/drLatLini1.1/drLatLini1.hap1.1.primary.fa.gz
+Fallopia_convolvulus	/data/tol/data/darwin/dicots/Fallopia_convolvulus/assembly/curated/dcFalConv1.1/dcFalConv1.1.primary.fa.gz
+Potentilla_sterilis	/data/tol/data/darwin/dicots/Potentilla_sterilis/assembly/curated/drPotSter1.1/drPotSter1.1.primary.fa.gz
+Leontodon_hispidus	/data/tol/data/darwin/dicots/Leontodon_hispidus/assembly/curated/daLeoHisp1.1/daLeoHisp1.hap2.1.primary.fa.gz
+Veronica_anagallis_aquatica	/data/tol/data/darwin/dicots/Veronica_anagallis_aquatica/assembly/curated/daVerAnag1.1/daVerAnag1.hap2.1.primary.fa.gz
+Callitriche_obtusangula	/data/tol/data/darwin/dicots/Callitriche_obtusangula/assembly/curated/daCalObtu1.1/daCalObtu1.hap1.1.primary.fa.gz
+Malva_sylvestris	/data/tol/data/darwin/dicots/Malva_sylvestris/assembly/curated/ddMalSylv1.1/ddMalSylv1.hap2.1.primary.fa.gz
+Geranium_rotundifolium	/data/tol/data/darwin/dicots/Geranium_rotundifolium/assembly/curated/drGerRotu1.1/drGerRotu1.1.primary.fa.gz
+Ballota_nigra	/data/tol/data/darwin/dicots/Ballota_nigra/assembly/curated/daBalNigr1.1/daBalNigr1.1.primary.fa.gz
+Succisa_pratensis	/data/tol/data/darwin/dicots/Succisa_pratensis/assembly/curated/daSucPrat4.1/daSucPrat4.hap1.1.primary.fa.gz
+Rosa_spinosissima	/data/tol/data/darwin/dicots/Rosa_spinosissima/assembly/curated/drRosSpin1.1/drRosSpin1.hap1.1.primary.fa.gz
+Trifolium_subterraneum	/data/tol/data/darwin/dicots/Trifolium_subterraneum/assembly/curated/drTriSubt1.1/drTriSubt1.1.primary.fa.gz
+Blitum_bonus_henricus	/data/tol/data/darwin/dicots/Blitum_bonus_henricus/assembly/curated/dcBliBonu1.1/dcBliBonu1.hap1.1.primary.fa.gz
+Bellardia_viscosa	/data/tol/data/darwin/dicots/Bellardia_viscosa/assembly/curated/daBelVisc1.1/daBelVisc1.hap2.1.primary.fa.gz
+Rosa_rugosa	/data/tol/data/darwin/dicots/Rosa_rugosa/assembly/curated/drRosRugo1.1/drRosRugo1.1.primary.fa.gz
+Lapsana_communis	/data/tol/data/darwin/dicots/Lapsana_communis/assembly/curated/daLapComm1.1/daLapComm1.hap2.1.primary.fa.gz
+Aesculus_hippocastanum	/data/tol/data/darwin/dicots/Aesculus_hippocastanum/assembly/curated/drAesHipp1.1/drAesHipp1.hap2.1.primary.fa.gz
+Tamarix_gallica	/data/tol/data/darwin/dicots/Tamarix_gallica/assembly/curated/dcTamGall1.1/dcTamGall1.hap2.1.primary.fa.gz
+Sambucus_nigra	/data/tol/data/darwin/dicots/Sambucus_nigra/assembly/curated/daSamNigr1.1/daSamNigr1.1.primary.fa.gz
+Fraxinus_excelsior	/data/tol/data/darwin/dicots/Fraxinus_excelsior/assembly/curated/daFraExce3.1/daFraExce3.hap1.1.primary.fa.gz
+Pulicaria_dysenterica	/data/tol/data/darwin/dicots/Pulicaria_dysenterica/assembly/curated/daPulDyse1.2/daPulDyse1.2.primary.fa.gz
+Tragopogon_pratensis	/data/tol/data/darwin/dicots/Tragopogon_pratensis/assembly/curated/daTraPrat1.1/daTraPrat1.hap2.1.primary.fa.gz
+Cruciata_laevipes	/data/tol/data/darwin/dicots/Cruciata_laevipes/assembly/curated/daCruLaev1.1/daCruLaev1.1.primary.fa.gz
+Persicaria_maculosa	/data/tol/data/darwin/dicots/Persicaria_maculosa/assembly/curated/dcPerMacu1.1/dcPerMacu1.1.primary.fa.gz
+Mentha_aquatica	/data/tol/data/darwin/dicots/Mentha_aquatica/assembly/curated/daMenAqua1.1/daMenAqua1.hap2.1.primary.fa.gz
+Petasites_hybridus	/data/tol/data/darwin/dicots/Petasites_hybridus/assembly/curated/daPetHybr1.1/daPetHybr1.hap1.1.primary.fa.gz
+Sherardia_arvensis	/data/tol/data/darwin/dicots/Sherardia_arvensis/assembly/curated/daSheArve1.1/daSheArve1.1.primary.fa.gz
+Veronica_scutellata	/data/tol/data/darwin/dicots/Veronica_scutellata/assembly/curated/daVerScut1.1/daVerScut1.hap1.1.primary.fa.gz
+Veronica_arvensis	/data/tol/data/darwin/dicots/Veronica_arvensis/assembly/curated/daVerArve1.1/daVerArve1.hap2.1.primary.fa.gz
+Inula_conyza	/data/tol/data/darwin/dicots/Inula_conyza/assembly/curated/daInuConz1.1/daInuConz1.hap2.1.primary.fa.gz
+Anthyllis_vulneraria	/data/tol/data/darwin/dicots/Anthyllis_vulneraria/assembly/curated/drAntVuln1.1/drAntVuln1.hap1.1.primary.fa.gz
+Melittis_melissophyllum	/data/tol/data/darwin/dicots/Melittis_melissophyllum/assembly/curated/daMelMeli1.1/daMelMeli1.1.primary.fa.gz
+Quercus_cerris	/data/tol/data/darwin/dicots/Quercus_cerris/assembly/curated/dhQueCerr2.1/dhQueCerr2.1.primary.fa.gz
