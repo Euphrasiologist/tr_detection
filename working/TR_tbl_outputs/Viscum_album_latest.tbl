@@ -1,0 +1,96 @@
+# target name        accession  query name              accession  hmmfrom hmm to    alifrom     ali to    envfrom     env to     sq len strand   E-value  score  bias  description of target
+#------------------- ----------    -------------------- ---------- ------- -------    -------    -------    -------    -------    ------- ------ --------- ------ ----- ---------------------
+OY728131.1           -          fajkus_dtol_250_aligned -                7     186  923835735  923835934  923835729  923835943 2108664250    +     0.00051   33.7   3.6  Viscum album genome assembly, chromosome: 3_2
+OY728147.1           -          fajkus_dtol_250_aligned -               14     134   86926754   86926632   86926774   86926597 2144314009    -        0.11   26.0   3.9  Viscum album genome assembly, chromosome: 6_3
+OY728123.1           -          fajkus_dtol_250_aligned -              125     190 1441635885 1441635801 1441635894 1441635786 2142779784    -        0.24   24.9   2.5  Viscum album genome assembly, chromosome: 1_5
+OY728156.1           -          fajkus_dtol_250_aligned -               16     102  745504945  745504870  745504957  745504849 2145201137    -        0.32   24.5   0.0  Viscum album genome assembly, chromosome: 8_2
+OY728119.1           -          fajkus_dtol_250_aligned -                8     186  616599465  616599276  616599472  616599268 2143528264    -        0.35   24.4   6.9  Viscum album genome assembly, chromosome: 1_1
+OY728164.1           -          fajkus_dtol_250_aligned -                6     137 1921153395 1921153253 1921153402 1921153230 2119186544    -        0.35   24.4   4.5  Viscum album genome assembly, chromosome: 10_2
+OY728128.1           -          fajkus_dtol_250_aligned -                6     174  958183275  958183474  958183270  958183479 2141806609    +        0.38   24.2   4.0  Viscum album genome assembly, chromosome: 2_4
+OY728130.1           -          fajkus_dtol_250_aligned -                6     186 2093172931 2093172731 2093172936 2093172721 2134931027    -        0.41   24.2   5.4  Viscum album genome assembly, chromosome: 3_1
+OY728127.1           -          fajkus_dtol_250_aligned -                6     134 1142611435 1142611257 1142611440 1142611237 2133121580    -        0.71   23.4   4.4  Viscum album genome assembly, chromosome: 2_3
+OY728160.1           -          fajkus_dtol_250_aligned -                6     185  588191956  588191746  588191961  588191736 2114166385    -        0.72   23.3   6.2  Viscum album genome assembly, chromosome: 9_2
+OY728155.1           -          fajkus_dtol_250_aligned -                6     157  507865742  507865548  507865747  507865539 2134142781    -        0.79   23.2   1.7  Viscum album genome assembly, chromosome: 8_1
+OY728131.1           -          fajkus_dtol_250_aligned -                6     186  271629227  271629024  271629232  271629017 2108664250    -        0.87   23.1   4.0  Viscum album genome assembly, chromosome: 3_2
+OY728147.1           -          fajkus_dtol_250_aligned -                3     130  613597463  613597309  613597466  613597289 2144314009    -        0.95   22.9   2.3  Viscum album genome assembly, chromosome: 6_3
+OY728153.1           -          fajkus_dtol_250_aligned -               13     142  609957279  609957431  609957264  609957451 2100933269    +           1   22.8   4.4  Viscum album genome assembly, chromosome: 7_4
+OY728123.1           -          fajkus_dtol_250_aligned -                6     173 2029863043 2029863240 2029863039 2029863246 2142779784    +         1.1   22.8   6.1  Viscum album genome assembly, chromosome: 1_5
+OY728142.1           -          fajkus_dtol_250_aligned -                6     185  503369435  503369240  503369440  503369229 2101175359    -         1.3   22.5   1.7  Viscum album genome assembly, chromosome: 5_3
+OY728152.1           -          fajkus_dtol_250_aligned -                6     186 1281081907 1281081712 1281081914 1281081705 2133305249    -         1.3   22.4   4.1  Viscum album genome assembly, chromosome: 7_3
+OY728147.1           -          fajkus_dtol_250_aligned -                7     103  610100457  610100562  610100451  610100574 2144314009    +         1.4   22.4   1.4  Viscum album genome assembly, chromosome: 6_3
+OY728126.1           -          fajkus_dtol_250_aligned -                6     179  898296836  898296635  898296843  898296622 2144481838    -         1.6   22.2   4.2  Viscum album genome assembly, chromosome: 2_2
+OY728167.1           -          fajkus_dtol_250_aligned -                6     144  316095849  316095689  316095855  316095655 1020192845    -         1.8   22.0   6.9  Viscum album genome assembly, chromosome: B1
+OY728148.1           -          fajkus_dtol_250_aligned -                6     173  173623684  173623487  173623690  173623479 2139184679    -         1.8   22.0   6.1  Viscum album genome assembly, chromosome: 6_4
+OY728147.1           -          fajkus_dtol_250_aligned -                7     102  610079887  610079990  610079881  610080002 2144314009    +         1.8   22.0   1.9  Viscum album genome assembly, chromosome: 6_3
+OY728147.1           -          fajkus_dtol_250_aligned -                7     102  612109644  612109540  612109650  612109527 2144314009    -         1.9   22.0   1.5  Viscum album genome assembly, chromosome: 6_3
+OY728133.1           -          fajkus_dtol_250_aligned -                6     138  120664015  120664144  120664008  120664167 2117022170    +         1.9   21.9   5.4  Viscum album genome assembly, chromosome: 3_4
+OY728141.1           -          fajkus_dtol_250_aligned -                7     139 1719793367 1719793208 1719793373 1719793187 2138192289    -         1.9   21.9   3.5  Viscum album genome assembly, chromosome: 5_2
+OY728145.1           -          fajkus_dtol_250_aligned -                6     186 2030722672 2030722476 2030722677 2030722468 2138605540    -         2.1   21.8   1.7  Viscum album genome assembly, chromosome: 6_1
+OY728157.1           -          fajkus_dtol_250_aligned -                7     138 1401260836 1401260669 1401260843 1401260647 2137733646    -         2.2   21.8   5.9  Viscum album genome assembly, chromosome: 8_3
+OY728120.1           -          fajkus_dtol_250_aligned -                6     138 2133298969 2133298807 2133298974 2133298787 2138631366    -         2.2   21.7   4.5  Viscum album genome assembly, chromosome: 1_2
+OY728145.1           -          fajkus_dtol_250_aligned -               11     126 1690199478 1690199597 1690199469 1690199617 2138605540    +         2.4   21.6   0.5  Viscum album genome assembly, chromosome: 6_1
+OY728147.1           -          fajkus_dtol_250_aligned -                6     184 1760962508 1760962713 1760962503 1760962723 2144314009    +         2.4   21.6   4.0  Viscum album genome assembly, chromosome: 6_3
+OY728131.1           -          fajkus_dtol_250_aligned -                6     157 1286842637 1286842438 1286842643 1286842425 2108664250    -         2.8   21.4   1.8  Viscum album genome assembly, chromosome: 3_2
+OY728129.1           -          fajkus_dtol_250_aligned -                3     157  143908956  143909137  143908954  143909157 1870266305    +         2.8   21.4   2.9  Viscum album genome assembly, chromosome: 2_5
+OY728153.1           -          fajkus_dtol_250_aligned -               11     139 1156616412 1156616563 1156616399 1156616583 2100933269    +         2.9   21.3   5.6  Viscum album genome assembly, chromosome: 7_4
+OY728134.1           -          fajkus_dtol_250_aligned -               49     173 1562286573 1562286426 1562286590 1562286406 1576301307    -         3.1   21.2   2.8  Viscum album genome assembly, chromosome: 3_5
+OY728134.1           -          fajkus_dtol_250_aligned -               49     173 1562385484 1562385337 1562385501 1562385317 1576301307    -         3.1   21.2   2.8  Viscum album genome assembly, chromosome: 3_5
+OY728153.1           -          fajkus_dtol_250_aligned -                6     177 1387453991 1387454157 1387453985 1387454177 2100933269    +         3.6   21.1   7.4  Viscum album genome assembly, chromosome: 7_4
+OY728153.1           -          fajkus_dtol_250_aligned -                6     177 1387469632 1387469466 1387469638 1387469446 2100933269    -         3.6   21.1   7.4  Viscum album genome assembly, chromosome: 7_4
+OY728143.1           -          fajkus_dtol_250_aligned -               13     134  240197309  240197158  240197322  240197135 2146227213    -         3.9   20.9   4.1  Viscum album genome assembly, chromosome: 5_4
+OY728123.1           -          fajkus_dtol_250_aligned -               48     137  262556515  262556424  262556531  262556404 2142779784    -         3.9   20.9   4.6  Viscum album genome assembly, chromosome: 1_5
+OY728135.1           -          fajkus_dtol_250_aligned -                6     175  266693327  266693125  266693333  266693121 2067099338    -           4   20.9   8.0  Viscum album genome assembly, chromosome: 4_1
+OY728158.1           -          fajkus_dtol_250_aligned -               12     138 1338334930 1338335069 1338334919 1338335087 1914313492    +           4   20.9   2.1  Viscum album genome assembly, chromosome: 8_4
+OY728145.1           -          fajkus_dtol_250_aligned -               12     165  268145964  268145756  268145976  268145755 2138605540    -           4   20.9   4.5  Viscum album genome assembly, chromosome: 6_1
+OY728158.1           -          fajkus_dtol_250_aligned -               13     115  124549884  124549778  124549894  124549766 1914313492    -         4.2   20.8   2.9  Viscum album genome assembly, chromosome: 8_4
+OY728127.1           -          fajkus_dtol_250_aligned -                5     134 1534457873 1534458036 1534457867 1534458074 2133121580    +         4.2   20.8   2.6  Viscum album genome assembly, chromosome: 2_3
+OY728166.1           -          fajkus_dtol_250_aligned -                6     170  960291085  960291287  960291079  960291288 1498831827    +         4.4   20.8   0.8  Viscum album genome assembly, chromosome: 10_4
+OY728167.1           -          fajkus_dtol_250_aligned -                4     186  137993115  137992908  137993118  137992902 1020192845    -         4.4   20.8   4.2  Viscum album genome assembly, chromosome: B1
+OY728121.1           -          fajkus_dtol_250_aligned -                6     164    2348713    2348902    2348709    2348905 2132989935    +         4.8   20.6   0.6  Viscum album genome assembly, chromosome: 1_3
+OY728128.1           -          fajkus_dtol_250_aligned -                6     186 1543892800 1543892588 1543892818 1543892581 2141806609    -         4.9   20.6   9.8  Viscum album genome assembly, chromosome: 2_4
+OY728157.1           -          fajkus_dtol_250_aligned -                6     186  734737748  734737963  734737743  734737970 2137733646    +         5.1   20.5   8.9  Viscum album genome assembly, chromosome: 8_3
+OY728142.1           -          fajkus_dtol_250_aligned -              140     208 1842600378 1842600457 1842600366 1842600457 2101175359    +         5.1   20.5   1.3  Viscum album genome assembly, chromosome: 5_3
+OY728119.1           -          fajkus_dtol_250_aligned -                6     146 2134038827 2134038674 2134038834 2134038653 2143528264    -         5.1   20.5   2.3  Viscum album genome assembly, chromosome: 1_1
+OY728133.1           -          fajkus_dtol_250_aligned -                6     168  187897516  187897707  187897511  187897718 2117022170    +         5.3   20.5   3.6  Viscum album genome assembly, chromosome: 3_4
+OY728145.1           -          fajkus_dtol_250_aligned -                6     171 1760114217 1760114405 1760114212 1760114425 2138605540    +         5.3   20.5   6.2  Viscum album genome assembly, chromosome: 6_1
+OY728131.1           -          fajkus_dtol_250_aligned -                6     128  854072539  854072386  854072546  854072366 2108664250    -         5.4   20.5   4.9  Viscum album genome assembly, chromosome: 3_2
+OY728130.1           -          fajkus_dtol_250_aligned -                6     186 1985113351 1985113146 1985113358 1985113136 2134931027    -         5.6   20.4   6.4  Viscum album genome assembly, chromosome: 3_1
+OY728136.1           -          fajkus_dtol_250_aligned -                6     134  713618080  713618231  713618075  713618256 2134690998    +         5.7   20.4   2.0  Viscum album genome assembly, chromosome: 4_2
+OY728142.1           -          fajkus_dtol_250_aligned -                6     157  355039110  355038910  355039115  355038900 2101175359    -         5.7   20.4   2.8  Viscum album genome assembly, chromosome: 5_3
+OY728130.1           -          fajkus_dtol_250_aligned -               78     138  553493486  553493402  553493507  553493381 2134931027    -         5.8   20.3   0.2  Viscum album genome assembly, chromosome: 3_1
+OY728147.1           -          fajkus_dtol_250_aligned -                9     101  610208496  610208597  610208486  610208613 2144314009    +         5.9   20.3   3.4  Viscum album genome assembly, chromosome: 6_3
+OY728128.1           -          fajkus_dtol_250_aligned -                6     139  938323695  938323863  938323690  938323884 2141806609    +         6.3   20.2   6.0  Viscum album genome assembly, chromosome: 2_4
+OY728159.1           -          fajkus_dtol_250_aligned -               12     173 1233590682 1233590880 1233590670 1233590903 2145479601    +         6.3   20.2   1.4  Viscum album genome assembly, chromosome: 9_1
+OY728127.1           -          fajkus_dtol_250_aligned -               36     130 1679217827 1679217950 1679217810 1679217952 2133121580    +         6.6   20.2   5.3  Viscum album genome assembly, chromosome: 2_3
+OY728148.1           -          fajkus_dtol_250_aligned -               21     154 2100849867 2100849739 2100849887 2100849719 2139184679    -         7.3   20.0   2.1  Viscum album genome assembly, chromosome: 6_4
+OY728137.1           -          fajkus_dtol_250_aligned -              126     201  466384615  466384536  466384621  466384533 2136662657    -         7.4   20.0   3.5  Viscum album genome assembly, chromosome: 4_3
+OY728135.1           -          fajkus_dtol_250_aligned -                5     186  669795297  669795502  669795293  669795509 2067099338    +         7.4   20.0   6.2  Viscum album genome assembly, chromosome: 4_1
+OY728153.1           -          fajkus_dtol_250_aligned -               11     139 1156694232 1156694081 1156694245 1156694061 2100933269    -         7.5   20.0   5.6  Viscum album genome assembly, chromosome: 7_4
+OY728119.1           -          fajkus_dtol_250_aligned -                6     139   71534495   71534659   71534489   71534697 2143528264    +         7.8   19.9   4.1  Viscum album genome assembly, chromosome: 1_1
+OY728123.1           -          fajkus_dtol_250_aligned -               14      96 1605609221 1605609308 1605609208 1605609329 2142779784    +         7.9   19.9   3.0  Viscum album genome assembly, chromosome: 1_5
+OY728164.1           -          fajkus_dtol_250_aligned -                2     130 1799978857 1799979011 1799978856 1799979031 2119186544    +         7.9   19.9   4.3  Viscum album genome assembly, chromosome: 10_2
+OY728124.1           -          fajkus_dtol_250_aligned -                6     157   21427569   21427770   21427564   21427778  124381055    +           8   19.9   2.6  Viscum album genome assembly, chromosome: 1_6
+OY728133.1           -          fajkus_dtol_250_aligned -                6     134  182990290  182990431  182990283  182990455 2117022170    +           8   19.9   4.1  Viscum album genome assembly, chromosome: 3_4
+OY728150.1           -          fajkus_dtol_250_aligned -                6     152 1067266831 1067266999 1067266827 1067267033 2132146989    +         8.1   19.9   1.1  Viscum album genome assembly, chromosome: 7_1
+OY728132.1           -          fajkus_dtol_250_aligned -                6     173 1814744936 1814745133 1814744929 1814745140 2146278775    +         8.2   19.9   7.4  Viscum album genome assembly, chromosome: 3_3
+OY728131.1           -          fajkus_dtol_250_aligned -               13     126 1447230166 1447230287 1447230150 1447230290 2108664250    +         8.6   19.8   3.2  Viscum album genome assembly, chromosome: 3_2
+OY728127.1           -          fajkus_dtol_250_aligned -                9      99  486869266  486869365  486869252  486869385 2133121580    +         8.8   19.8   4.4  Viscum album genome assembly, chromosome: 2_3
+OY728135.1           -          fajkus_dtol_250_aligned -               12     137  869030706  869030827  869030694  869030844 2067099338    +         9.2   19.7   1.7  Viscum album genome assembly, chromosome: 4_1
+OY728147.1           -          fajkus_dtol_250_aligned -                9      92  613597667  613597575  613597676  613597556 2144314009    -         9.2   19.7   3.1  Viscum album genome assembly, chromosome: 6_3
+OY728141.1           -          fajkus_dtol_250_aligned -                6     139  389604291  389604130  389604296  389604110 2138192289    -         9.2   19.7   2.9  Viscum album genome assembly, chromosome: 5_2
+OY728120.1           -          fajkus_dtol_250_aligned -               10     101  507636608  507636704  507636599  507636724 2138631366    +         9.3   19.7   1.4  Viscum album genome assembly, chromosome: 1_2
+OY728122.1           -          fajkus_dtol_250_aligned -                6     175 1373395397 1373395564 1373395390 1373395584 2142145023    +         9.6   19.6   1.9  Viscum album genome assembly, chromosome: 1_4
+OY728147.1           -          fajkus_dtol_250_aligned -                7     185 2053767010 2053766802 2053767015 2053766793 2144314009    -         9.7   19.6   6.8  Viscum album genome assembly, chromosome: 6_3
+OY728132.1           -          fajkus_dtol_250_aligned -               35     139 1219215635 1219215755 1219215625 1219215776 2146278775    +         9.8   19.6   2.6  Viscum album genome assembly, chromosome: 3_3
+OY728133.1           -          fajkus_dtol_250_aligned -               12     157  407791073  407791270  407791059  407791282 2117022170    +         9.8   19.6   1.4  Viscum album genome assembly, chromosome: 3_4
+OY728150.1           -          fajkus_dtol_250_aligned -               11     134  103807417  103807267  103807430  103807247 2132146989    -         9.9   19.6   5.9  Viscum album genome assembly, chromosome: 7_1
+#
+# Program:         nhmmer
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ./original_data/latest_hmm/fajkus_dtol_250_aligned.hmm
+# Target file:     /lustre/scratch122/tol/data/f/2/e/8/4/d/Viscum_album/assembly/release/drVisAlbu1.1/insdc/GCA_963277665.1.fasta.gz
+# Option settings: /software/team301/hmmer-3.4/src/nhmmer --tblout ./working/TR_tbl_outputs/Viscum_album_latest.tbl --dna --cpu 20 ./original_data/latest_hmm/fajkus_dtol_250_aligned.hmm /lustre/scratch122/tol/data/f/2/e/8/4/d/Viscum_album/assembly/release/drVisAlbu1.1/insdc/GCA_963277665.1.fasta.gz 
+# Current dir:     /lustre/scratch122/tol/teams/blaxter/users/mb39/tr_detection
+# Date:            Tue Jul  1 17:29:46 2025
+# [ok]
