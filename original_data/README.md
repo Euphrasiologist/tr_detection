@@ -3,8 +3,10 @@
 Some of this is from the 2019 Fajkus paper [1].
 
 - I took all the fasta sequences from the supplementary
-- Aligned them
-- Created an HMM
+- `mmft len -e 250` to extract sequences with more than 250bp (shorter than this likely to be fragments).
+- Aligned them. `/software/team301/mafft-7.525-with-extensions/core/mafft fajkus_dtol_250.fasta > fajkus_dtol_250_aligned.fasta`
+- Created an HMM. `/software/team301/hmmer-3.4/src/hmmbuild fajkus_dtol_250_aligned.hmm fajkus_dtol_250_aligned.fasta`
+- Press the HMM, move to dir. `/software/team301/hmmer-3.4/src/hmmpress fajkus_dtol_250_aligned.hmm`; `mkdir latest_hmm`; `mv fajkus_dtol_250_aligned.hmm* latest_hmm`
 - Ran this HMM across all DToL genomes
 - Appended new TR sequences
 - Created new HMM from this data.
